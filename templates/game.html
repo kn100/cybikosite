@@ -8,6 +8,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- import stylesheet -->
   <link rel="stylesheet" href="/public/site/style.css">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@normankev141" />
+  <meta name="twitter:creator" content="@normankev141" />
+  <meta property="og:url" content="https://cybiko.kn100.me/game/{{.Game.FolderName}}" />
+  <meta property="og:title" content="{{.Game.Name}} - A game for Cybiko" />
+  <meta property="og:description" content="{{.Game.TextShortened}}" />
+  <meta property="og:image" content="https://cybiko.kn100.me{{.Game.IntroImg}}" />
+  <link rel="shortcut icon" type="image/png" href="/public/site/favicon.png"/>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116596166-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-116596166-1');
+  </script>
+
 </head>
 
 <body>

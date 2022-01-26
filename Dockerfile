@@ -1,8 +1,5 @@
 FROM golang:1.17.6 as builder
 
-# Install some dependencies needed to build the project
-# not sure why I need libgl-dev but whatever.
-
 RUN mkdir /app
 WORKDIR /app
 COPY go.mod /app/go.mod

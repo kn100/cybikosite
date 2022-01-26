@@ -71,7 +71,7 @@ func (cy *CyData) Load() error {
 		}
 
 		// Load in the files
-		files, err := ioutil.ReadDir("static/resources/" + folderName)
+		files, err := ioutil.ReadDir("/static/resources/" + folderName)
 		if err != nil {
 			return err
 		}
@@ -105,7 +105,7 @@ func (cy *CyData) Load() error {
 
 			game.CyFiles[file.Name()] = cyFile
 			if file.Name() == "root-spl.txt" {
-				text, err := handleTextFile("static/resources/" + folderName + "/" + file.Name())
+				text, err := handleTextFile("/static/resources/" + folderName + "/" + file.Name())
 				if err != nil {
 					return err
 				}
@@ -145,7 +145,7 @@ func (cy *CyData) Load() error {
 }
 
 func foldersWhichExist() ([]string, error) {
-	files, err := ioutil.ReadDir("static/resources/")
+	files, err := ioutil.ReadDir("/static/resources/")
 	if err != nil {
 		return nil, err
 	}

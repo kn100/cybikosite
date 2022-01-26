@@ -47,13 +47,13 @@ func main() {
 		AllowCredentials: true,
 	})
 	handler := c.Handler(r)
-	fs := http.FileServer(http.Dir("./static/"))
+	fs := http.FileServer(http.Dir("/static/"))
 	r.PathPrefix("/public").Handler(http.StripPrefix("/public/", fs))
 	r.HandleFunc("/", RedirToArchiveSite)
 	r.HandleFunc("/page/{page}", GetTemplatedArchiveSiteHandler)
 	r.Path("/game/{game}").HandlerFunc(GetTemplatedGameViewMorePageHandler)
 	http.Handle("/", r)
-	log.Fatal().Err(http.ListenAndServe("localhost:32768", handler)).Msg("Server stopped!!!")
+	log.Fatal().Err(http.ListenAndServe("0.0.0.0:32768", handler)).Msg("Server stopped!!!")
 }
 
 func RedirToArchiveSite(w http.ResponseWriter, r *http.Request) {
@@ -81,7 +81,7 @@ func GetTemplatedGameViewMorePageHandler(w http.ResponseWriter, r *http.Request)
 	}
 	gr := detailResponse{Game: games[0]}
 
-	t, err := template.ParseFiles("templates/game.html")
+	t, err := template.ParseFiles("/templates/game.html")
 	if err != nil {
 		log.Fatal().Err(err).Msg(err.Error())
 	}
@@ -89,6 +89,7 @@ func GetTemplatedGameViewMorePageHandler(w http.ResponseWriter, r *http.Request)
 }
 
 func GetTemplatedArchiveSiteHandler(w http.ResponseWriter, r *http.Request) {
+	log.Debug().Msg("Getting archive site")
 	limit := 0
 	vars := mux.Vars(r)
 	pageStr := vars["page"]
@@ -134,10 +135,10 @@ func GetTemplatedArchiveSiteHandler(w http.ResponseWriter, r *http.Request) {
 	log.Debug().Msg("Getting templated archive site")
 	w.Header().Set("Content-Type", "text/html")
 	// Load in the template
-	tmpl := template.Must(template.ParseFiles("templates/index.html"))
+	tmpl := template.Must(template.ParseFiles("/templates/index.html"))
 	tmpl.Execute(w, gwh)
 }
 
 func GetArchiveSiteHandler(w http.ResponseWriter, r *http.Request) {
-	http.ServeFile(w, r, "static/index.html")
+	http.ServeFile(w, r, "/static/index.html")
 }

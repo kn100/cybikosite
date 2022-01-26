@@ -1,0 +1,9 @@
+version: "3"
+services:
+  backend:
+    build: .
+    ports:
+      - "32768:32768"
+    volumes:
+      - ./static:/static
+      - ./templates:/templates

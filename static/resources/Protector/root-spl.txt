@@ -1,0 +1,9 @@
+Version 1.1.7
+This is one player game in which the object is to pass all ten levels and obtain the highest score. You control a ship and must either protect your base for 3 minutes from the enemies, or destroy all of the enemy bases to pass any of the level. The teleporter that beams your ship to another teleporter will help you. After you teleport, you can't do it again for 3 seconds. Each ship may be armed with a gun of one of the following types: ordinary gun, quick firing gun, triple-barreled gun and super gun (its bullet destroys a monolith). You start playing with an ordinary gun, and if 2 bullets hit you, you lose your ship. Your ship is at the bottom of the screen to the right of your base. The power-ups may be used both by you and your enemies. A star gives you a perfected gun; the shield increases the solidity of a ship; the tornado doubles the ship's speed; a ship gives your one more ship to play; the wall restores the walls around the base; and the monolith restores the walls around the base, and these walls become monolith for 30 seconds. Mines (you can have only one at a time) can fully destroy any ship if it is struck. You have 3 ships at the beginning, and you are given an additional ship for every 500 points. The game ends when you pass the 10th level, if your base is blown up, or if you lose all your spaceships.
+Press <Arrows> to move your ship.
+Press <Enter> to shoot.
+Press <Select> to leave a mine.
+Press <Ins> to show/hide the informational field.
+Press <Tab> to view Best Scores.
+Press <Esc> to exit.
+COPYRIGHT © 2001 CYBIKO, Inc.

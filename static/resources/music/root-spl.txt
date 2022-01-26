@@ -1,0 +1,2 @@
+This application allows you to create simple melodies and to play them.
+© CYBIKO Inc., 1999

@@ -1,0 +1,7 @@
+Version 1.1.17
+Time Converter is an application that allows you to get to know the time all around the world. Your local time is always displayed in the upper left corner of the screen. The time of the highlighted time zone is in the upper right corner. The cities and regions of the highlighted time zone and its difference from the GMT alternate at the bottom of the screen. The application has the options to change the time zone you are in and to inquire about the time in some cities and regions from the list.
+Use <Right/Left arrows> to move the highlight between time zones.
+Press <Ins> to change the time zone you are in. Then use <Right/Left arrows> to choose the time zone. Press <Enter> after the desired zone is chosen. Press <Esc> if you don't want to change your time zone.
+Press <Select> to get to know the time in some cities and regions.
+Press <Esc> to exit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

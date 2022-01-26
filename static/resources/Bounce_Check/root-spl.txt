@@ -1,0 +1,13 @@
+This is a single player game. The object of the game is to attain the highest score by performing the most successful tricks on the trampoline. At the start of the game, the player is centered on the screen, standing on the trampoline. The player is allotted 2 minutes to attain the highest score possible. First, the player has to jump. When he achieves the rebound effect from the trampoline, he has to perform tricks. The more difficult the trick, and the more individual moves that are in the trick, the more points are added. You get extra points for special combinations of tricks. The game ends when the 2 minutes are up.
+For full detailed rules see our site www.cybiko.com.
+Press <Enter> to jump when the character is the lowest in its landing (feet sunk down into the trampoline).
+Press <Del> to peform a front flip.
+Press <Ins> to perform a back flip.
+Press <Tab> to change the characters position horizontally to face down while in the air.
+Press <Select> to change the characters position horizontally to face up while in the air.
+Press <Left/Right arrows> to change the characters orientation to face left or right while in the air.
+Press <Down arrow> while in the air to make the character land on its knees/restore the character to its normal legs-down position.
+There are some secret tricks that you perform while holding <Up arrow> and pressing other buttons. Try to guess what they are!
+Press <Esc> to exit to the game menu.
+Version 1.1.20
+COPYRIGHT © 2000 CYBIKO, Inc.

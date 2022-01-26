@@ -1,0 +1,9 @@
+Version 1.1.7
+In this single player game, you control the letters that fall from the top of the screen in one or two line groups. Try to arrange them so that the word "CYBIKO" is spelled on the screen horizontally, vertically, either forwards or backwards. As you combine the word, it drops from the screen. Upon starting the game, you can alter the game settings and choose the level of difficulty. Try to get the highest score while making up as many words "CYBIKO" as you can!  You'll score a greater amount of points if you spell the word higher up on the screen. You go to the next level each time a certain number of words have been spelled and disappear from the screen. The game ends when there is no place to put the letters.   
+Press <Left/Right arrows> to move the falling letter(s) or bomb left or right.
+Press <Enter> to turn two-lined letter(s) clockwise.
+Press <Select> to turn the two-lined letters counter-clockwise. 
+Press <Down arrow> to move the falling letter(s) or bomb down.
+Press <Esc> and choose the "Quit" button to exit the game.
+
+COPYRIGHT © 2001 CYBIKO, Inc.

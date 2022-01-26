@@ -1,0 +1,5 @@
+Version 1.1.14
+The I Ching, or, the Book of Changes as it's known in English, is an ancient Chinese system of fortune telling that dates back at least 3,000 years. An oracle is traditionally cast by manipulating yarrow stalks. In this application for the Cybiko computer, you are asked to stop some revolving figures. The oracle consists of 64 hexagrams, each containing 6 lines. Those lines are either straight (Yang) or broken (Yin). The combinations of Yin and Yang cover all of the possible variations and are used to determine responses to the most difficult questions.
+To get a prediction, think of the question you have in mind.
+Press <Enter> to stop each of the revolving figures. This will get a line from the hexagram. Do this 6 times to get all 6 lines of the hexagram. Read the prediction closely. After you read the oracle, thank the I Ching mentally for the help.
+COPYRIGHT © 2001 CYBIKO, Inc.

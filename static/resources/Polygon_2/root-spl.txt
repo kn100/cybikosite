@@ -1,0 +1,7 @@
+This is a two-player game. The goal of the game is to make an uninterrupted connection of pieces before your opponent can. Players have black or white pieces and take turns placing their pieces on any unoccupied hex. The player with white pieces must create a chain from the lower left to the upper right edge of the board. The player with black pieces must create a chain from the lower right to the upper left edge of the board. The chains may twist and turn freely on their way from one edge to the other. White plays first, but cannot make its opening move on the center hex.
+The game ends when somebody is the first to make an uninterrupted chain of pieces.
+Use <Arrows> to move the pointer.
+Press <Enter> to place the piece.
+Press <Esc> to exit the game.
+Version 1.1.4
+COPYRIGHT © 2000 CYBIKO, Inc.

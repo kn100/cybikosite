@@ -1,0 +1,3 @@
+The deck is dealt in four rows. The goal is to free all the rows. You may try!
+Version 1.1.1
+© CYBIKO Inc., 1999

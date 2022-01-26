@@ -1,0 +1,8 @@
+Your mission is to destroy your rival in the maze. Find the rail gun to accomplish this goal! 
+Use <Arrows> to move.
+Use <Fn> to shift to the right and <Shift> to shift to the left in 3D mode.
+Use <Fn> to turn clockwise and <Shift> to turn counterclockwise in map mode.
+Use <Enter> to fire.
+Use <Tab> to switch view modes.
+Version 2.2.16.
+COPYRIGHT © 2000 CYBIKO, Inc.

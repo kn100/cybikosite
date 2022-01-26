@@ -1,0 +1,10 @@
+Version 1.1.9
+This is a single player game. Your object is to pass all 4 levels by performing the missions you are sent on by the kingdom's royal family. On each level, your knight has to perform the mission to go to the next level. Upon starting each level, the knight has to open the 1st of three doors leads to the royal hall, and receive a mission. The 2nd door leads to the trader who can outfit you for your quest. Upon opening the 3rd door, the level starts. Enemies include skeleton archers (they aim for your midsection), skeleton spearmen (they aim for the head), porcupines (they throw spines at the legs), and Enemy Knights. Pick up health bottles to increase your life, and money to buy necessities. All objects you have are kept in your sack, which you open to activate any object. The game ends and you are a winner if you pass all 4 levels in the game. The game also ends when you lose all your health. For full detailed rules, see our site www.cybiko.com.
+Use <Left/Right arrows> to move the hero left or right.
+Press <Up/Down arrows><Enter> to make an upper or lower hit.
+If you stay near:1) health bottle, weapon, money or chest press <Enter> to pick it up; 2) chest press <Enter> to open it; 3) stair press <Enter> to go up/down.  In another case, press <Enter> to make a middle hit.
+Press <Up/Down arrows><Select> to make an upper or lower block. Press <Select> to make a middle block.
+Press <Del> to view the info screen.
+Press <Tab> to view the map.
+Press <Esc> to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

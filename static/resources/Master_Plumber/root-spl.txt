@@ -1,0 +1,10 @@
+Version 1.1.4
+Create a figure of pipes on all the levels of the game and earn a pile of money for your sanitary engineering efforts!
+Your playing board is a walled rectangular area. You have some pipes of different shapes and your goal is to create the figure that is shown in the left part of the screen. You have limited time for this. You can't turn the pipes - you can only move them from side to side. The pipe moves until it meets an obstacle like a wall or another pipe.
+When you complete the figure, the level ends and you see the cash that you've earned. The higher the level you play, the more difficult the construction you'll have to perform.
+The game ends when the time is up and you haven't made the figure. You will be the richest Cybiko Plumber if you finish the figure in the time allowed on the last level!
+Choose the pipe, move it, then choose another tube.
+Using <Arrows> move the cursor and press <Enter> to choose/cancel the pipe.
+Use <Arrows> to move the chosen tube.
+Press <Esc> to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

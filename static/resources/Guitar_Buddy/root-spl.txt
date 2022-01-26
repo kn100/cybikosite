@@ -1,0 +1,8 @@
+Guitar Buddy is an application for guitarists, with features such as a tuner, metronome, and a chord finder. So you don't have to worry too much about rules!
+Use <Up/Down arrows> to choose a menu item and press <Enter> to open it.
+Tuner - plays a guitar string tone you can tune.
+Chord Finder - shows a picture of the guitar chords.
+Metronome - counts beats for tempo you set.
+Exit - exits the application.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

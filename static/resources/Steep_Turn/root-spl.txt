@@ -1,0 +1,8 @@
+Version 1.1.6
+This game can be played with two to four players. Each player controls one small car on the field. The winner is the first player who reaches the finishing line. Each player gets 1 turn during which the player can move his/her car. In any your turn you must select the direction of movement and make your move. Your speed increases by 1 point with each move. Each step of your car is marked with a dot. Be attentive and don't crash into the wall! To win the race you have to plan your moves very carefully.
+On the way you can come across some event-bonuses and your speed will change: "+" - your speed increases by 1 point; "-" - your speed decreases by 1 point; "x" - your car stops at this point whatever speed you have; "*" - your car will move until it collides with the nearest wall; "?" - here you can find any bonus, take the chance and win!
+Press <Tab> to switch on scrolling mode during your turn. Use <Arrows> to scroll the labyrinth map. Press <Tab> again to return to select direction mode.
+Press <Left/Right arrows> to choose the direction of your move.
+Press <Enter> to make turn in selected direction.
+Press <Esc> to exit.
+COPYRIGHT © 2000 CYBIKO, Inc.

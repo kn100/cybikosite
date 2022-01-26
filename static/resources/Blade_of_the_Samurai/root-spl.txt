@@ -1,0 +1,9 @@
+Version 1.1.11
+Blade of the Samurai is a side-view fighting game for one player. Your hero is a samurai who skillfully wields his sword. The object of the game is to defeat all of your different ninja opponents in each of the 7 levels. To pass each level, you must overcome a certain number of ninja by fighting them one by one. You will encounter each of the following enemies: 2 kinds of ninja (black and white), the Boss Ninja, and the Lord Ninja. Black and White ninja are the weakest opponents. The Boss Ninja is a more dangerous enemy. The Lord Ninja is the most powerful and strong enemy adversary of them all and is very hard to beat. He throws Chinese throwing stars with sharp edges at your hero. These stars are used to inflict damage on the samurai and therefore must be blocked. From level to level, the skill of your enemies, as well as their numbers, will increase. Each time you kill an enemy, you get a certain amount of points. The more powerful the enemy you kill, the more points you score. The number of points you get for eliminated opponent depends on the level number. If you kill the enemy by executing an overhead slash, you score double the amount of points. If you pass all 7 levels and defeat all the enemies, the game ends and you are a winner. If you lose all of your lives, the game will be over.
+Use <Left/Right arrows> to go forward/backward.
+Press <Enter> to perform a quick forward lunge.
+Press <Enter><Up arrow> to execute the overhead slash.
+Press <Enter><Down arrow> to attack the legs of opponent.
+Use <Select> to block the attack of opponent.
+Press <Esc> to load the Game Menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

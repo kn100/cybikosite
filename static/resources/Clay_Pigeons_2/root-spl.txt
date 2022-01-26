@@ -1,0 +1,3 @@
+Version 1.1.14
+Fire your gun at the targets - clay pigeons. If you're a good marksman you will score the most points!
+COPYRIGHT © 1999 CYBIKO, Inc.

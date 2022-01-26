@@ -1,0 +1,11 @@
+Version 1.1.28
+This is a single player game. The object of the game is to destroy all enemy tanks as fast as possible on all 10 levels.
+Your hero moves in a labyrinth, blowing up bombs and mines. There are three types of enemy tanks: tanks that do not shoot, shooting tanks and heavily armored shooting tanks. Walls that you can't destroy and tents that hide enemy tanks will make your mission much more difficult to complete. Find bonuses: "heart"- a live, medicine chest - to refill your health, bombs and mines.
+You have five lives in the game. You lose some health each time an enemy tank hits you, if you stand too close to the exploding bomb, or if you are struck by a blasting mine. You have to destroy all tanks to go to the next level. The game ends when you successfully pass the 10th level or you lose your last life. The faster you play the game, the easier it is to reach the Top 10.
+Use <Arrows> to move the hero.
+Press <Enter> to leave a mine and press <Enter> to blow it up.
+Press <Select> to leave a bomb.
+Press <Tab> to view/hide the level map (your hero is marked with a black circle, the bonuses marked with white circles).
+Press <Ins> to show/hide informational sheet.
+Press <Esc> to go to menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

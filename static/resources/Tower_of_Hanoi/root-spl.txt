@@ -1,0 +1,3 @@
+The goal is to transfer all rings from the left tower to the right tower while using an auxiliary tower. Chinese monks favor this ancient game.
+Version 1.1.3
+© CYBIKO Inc., 1999

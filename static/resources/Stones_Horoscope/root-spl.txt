@@ -1,0 +1,10 @@
+Magic features of stones attract people in all times. Learn about your stone talisman according to your birthday. 
+Press <Space> to open the horoscope. Use <Up/Down arrows> to scroll the text.
+Press <Up/Down arrows> to select the item.
+Press <Enter>, <Right arrow> or <Select> to switch to the edit field.
+Use numeric keys to enter the day.
+Use <Select> or <Left/Right arrows> to select the month.
+Press <Enter> or <Tab> in the edit field to input your changes. Press <Esc> to reject the changes.
+Press <Esc> to exit or restart the game.
+Version 1.1.10
+COPYRIGHT © 2000 CYBIKO, Inc. 

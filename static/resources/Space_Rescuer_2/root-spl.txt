@@ -1,0 +1,10 @@
+The game has 11 levels, and each has it's own do or die mission!  It is your blood debt to your race to complete each!  Smoke all ships, meteors and other unfriendliness!  You score points for shaking down each object. Every 4,000 points gives you an extra life. And some kills will give you bonuses: advanced weapons, armor or "life".
+Press <Left/Right arrows> to move the ship.
+Press <Up/Down arrows> to accelerate/decelerate the ship.
+Press <P> to pause/continue the game.
+Press <Enter> to shoot.
+Press <Tab> to open/close status bar.
+Press <Select> to detonate the bomb.
+Press <Esc> to end the game.  
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

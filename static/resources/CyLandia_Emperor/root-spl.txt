@@ -1,0 +1,21 @@
+This is a single-player game with the ability of trade with partner. Your goal is to get rank of Emperor at least possible steps-years of the game. You have to pass 12 levels of your manufacturing and agricultural industry. At the top of the screen you see your current year, rank, agricultural and manufacturing levels. If your population falls below 100 people the Emperor downgrades you from his deputy to a regular peasant, the game ends.
+Choose "People" to manage people.
+Choose "Resources" to manage resources.
+Choose "Industry" to manage industry.
+Choose "Foreign Trade" to go for a foreign business trip. 
+Choose "Annual Report" to see the last year report.
+Choose "Next Year" to proceed to the next year of the game.
+Please, read detailed description of the game on our site www.cybiko.com.
+Press <L> to load saved game.
+Press <S> to save game. 
+To open the item on main screen use <Arrows> to select it and press <Enter>.
+<Shift><?> - opens mini help window in lists.
+<Shift><Left/Right arrows> - navigates through lists. 
+Use <Right arrow>, <Enter>, <Tab>, <Select> to switch to editing field in a list. Use numeric keys to type the value.
+Press <Tab> twice or press <Left arrow> to switch to the icon field. Use <Left/Right arrows> to change icon.
+Press <Enter> or <Tab> to accept the change. Press <Esc> to reject the change.
+Use <Fn><Up/Down arrows> to make actions in the list.
+Press <Space> on a chosen article in Foreign trade to sell/buy.
+Press <Esc> to exit.
+Version 1.1.37
+COPYRIGHT © 2000 CYBIKO, Inc.

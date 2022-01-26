@@ -1,0 +1,9 @@
+Snowball Fight is a single or two-player game. The object of the game is to be the first player to hit your opponent 3 times with a snowball, which turns the opponent into a snowman. The game is split into 7 levels. During each turn, you will get a chance to try and hit the other player with a snowball. After 7 levels were played, the winner is the player who has won 4 or more levels. The game consists of 2 small heroes throwing snowballs at each other. Using the Power Meter, you can determine the strength of snowball throw, while, with the help of your hand, you determine the angle and direction of snowball throw. When you are hit 3 times, you will become a snowman, and you lose the level. Different bonuses can be found in odd places. If you hit the bonus, you get to keep it. There are following bonuses in the game: Mega snowball (if you hit your opponent with this snowball, he/she will become a snowman at once), Umbrella Shield (this bonus defends you from a direct hit one time), Shovel (this bonus takes away one snowball if you have been hit before), there is also a dummy bonus. Snowfall shows the wind direction and strength.
+
+Use <Left/Right arrows> to adjust the Power Meter.
+Press and hold <Enter> to choose the angle of throw. The hand of the hero starts out as a horizontal line, and slowly rotates to a vertical line.
+Release <Enter> to throw a snowball. The orientation of the hand controls the initial launch direction of the snowball.
+Press <Esc> to quit the game.
+
+Version 2.1.21
+COPYRIGHT © 2000 CYBIKO, Inc.

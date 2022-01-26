@@ -1,0 +1,7 @@
+Version 1.1.7
+Eat up as much food as possible while controlling your mouse in a maze in this two-player game. Your opponent has a light-gray mouse, while the dark-gray mouse is yours. You start off on one gate while your opponent starts off on the other. Moving in the maze, you'll find food and eat it, trying to get the maximum points for it: you get 1 point for an apple, 2 points for a cherry and 3 points for cheese. If your mouse gets into the hole, it randomly appears from any other hole of the maze. Pass by the pools or your mouse will lose its speed for a time. Pay attention: the faster you move, the greater your chance of reaching the food and eating it before your opponent does!
+The game ends when all the food is eaten. The player that gets the most points is the winner! If the players get an equal number of points, they continue to play the game again until somebody wins!
+Use <Arrows> to control your mouse.
+Press <Tab> to view/close the maze map. The white color displays the area you've already been over; the black color shows the area that hasn't yet been covered.
+Press <Esc> and choose the "Quit" button to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,7 @@
+Version 1.1.10
+You control the big wide-eyed fish that swims in the tank with other residents. Keep your fish well-fed, air-filled and safe from the net in the tank for as long as possible, and you'll become the BEST Cybiko animal owner! Each level in the game lasts for a limited time. When you pass any level, you go to the next. You should snag the white and black air bubbles that are set free from the special tube to refill your air supply and get extra points. Consume the fish food (this will increase your score and food-supply) that tank's habitants get from time to time before the other fish in the tank eat it. Avoid the fish net that appears to try to scoop the fish out of the tank. If you get caught in the landing net, you lose a life. You also lose a life when your air or food resources run out. The game ends when you successfully pass all 7 levels of the game or when you lose all three lives. You may enter in the Top 10 if you get enough points!
+Press <Left/Right arrows> to move your fish right or left.
+Press <Up/Down arrows> to move your fish up or down. (Upon impact with the tank border, the fish will swim in the opposite direction).
+Press <Enter> to move faster.
+Press <Esc> and choose the "Quit" button to exit to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

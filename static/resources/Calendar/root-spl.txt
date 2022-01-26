@@ -1,0 +1,8 @@
+Version 1.1.11
+How often does it happen that you are dying to know which day of the week a certain date falls on, be it an anniversary, a friend's birthday, or a party you were supposed to attend?  Now you won't have to worry about carrying bulky day-timer.  You have an electronic calendar that is always with you. A creation so simple, and yet so very important, and you won't even have to buy a new one each year, as our calendar will last much longer than your lifetime!
+Use <Left/Right arrows> to select the month.
+Use <Up/Down Arrows> to select the year.
+Use <Shift><Up/Down arrows> to skip 10 years.
+Use <Fn><Up/Down arrows> to skip 100 years.
+Press <Esc>to exit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

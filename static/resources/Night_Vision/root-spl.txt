@@ -1,0 +1,8 @@
+Version 1.1.8
+Destroy your opponent's car in this grueling fight in the slumlands around the train yard. In the darkness of night, you can see only the section lit by your car's headlights and the spotlit railway area. Don't hesitate to hit the enemy car when it becomes visible. When enemy car shoots at you, it also becomes visible. Upon starting the game, you have 30 lives. You also have a gun and an unlimited number of bullets in your arsenal. From time to time, the railway engine moves along the rails, shooting and leaving bonuses: a heart, which gives you two extra lives, and extra shots - allows you to have more shots on the screen at the same time, and far-reaching headlights that give you the ability to view a larger area. One hit with a bullet takes one life of the victim. If the railway engine loses all 5 of its lives, a heart appears on the screen instead of the train, and after some time, a new train arrives. You also lose a life if you collide with any object, including the walls of the train yards.
+You may have only one bonus at a time. Your lives and your enemy lives are in the upper left and right parts of the screen, respectively. The round ends when any player uses up all his lives. The one who has survived wins the round. The game lasts until any player wins 5 times. The car always advances.
+Use <Arrows> to turn the car.
+Press <Enter> to shoot with the gun.
+Hold <BkSp> to slow the car down. While holding <BkSp>, press <Arrows> to turn the car while hitting the brakes.
+Press <Esc> and choose the "Quit" button to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

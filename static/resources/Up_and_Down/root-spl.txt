@@ -1,0 +1,4 @@
+Version 1.1.1
+Challenging puzzle game.
+Try to make all counters one color.
+COPYRIGHT © 1999 CYBIKO, Inc.

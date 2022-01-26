@@ -1,0 +1,8 @@
+Version 1.1.7
+Soccer Duel is a two-player (or you vs. Cybiko computer) soccer game in which the object is to outscore your opponent. Every player controls a character that can bump and kick the ball.  The players wearing light and dark uniforms start out facing each other in the center of the playfield, facing the opponent's net. Your character is always on the left. You can bump the ball around the playfield by running into it, or aggressively kick the ball across the screen. You score a point every time the ball enters the opponent's net. The game play lasts 4 minutes. The game score (your points are always shown on the left), and the time remaining are shown on the playing screen. The center of the playfield is marked with the black circle. If the ball goes off the screen edges, a small black circle appears in the direction toward which you must run to see the ball. The one to score the most before the end of the allotted time is a winner. If there is a draw game, the play will be continued until the winner is determined by being the first to score one more goal.
+Press <Space> to leave the game.
+Use <Arrows> to control your character.
+Run into the ball to bump it.
+Hold <Enter> and run into the ball to kick it.
+Hold <Select> to catch the kicked ball.
+COPYRIGHT © 2001 CYBIKO, Inc.

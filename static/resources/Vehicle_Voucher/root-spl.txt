@@ -1,0 +1,9 @@
+Version 1.2.4
+Vehicle Voucher is an application that keeps track of your vehicle expenses and maintenance records. You can also review all records, or export them to a .txt file, which can be then printed on any PC.
+Add - to add a new record to the database;
+View - to view the records in the database;
+Export - to export to a text file;
+Exit - to exit the application.
+The number of clear records that can be edited and added to the database is shown above the option list.
+Use <Up/Down Arrows> to select an option from the list. The currently selected option is highlighted. Press <Enter> to execute the selected option.
+COPYRIGHT © 2001 CYBIKO, Inc.

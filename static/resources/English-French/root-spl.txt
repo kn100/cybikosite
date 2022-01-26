@@ -1,0 +1,6 @@
+English-French Phrase Book teaches you how to say words and phrases in French.
+Use <Up/Down arrows> to choose items and press <Enter>.
+Press <Esc> to go up one level.
+Type a word to translate.
+Version 1.2.1
+COPYRIGHT © 2000 CYBIKO, Inc.

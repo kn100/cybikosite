@@ -1,0 +1,6 @@
+Bug Stomp is a single-player action game. The object of the game is to avoid being stepped on. The game has 10 levels. Each level has 6 feet that stomp up and down in different sequences. The greater the level, the greater the complexity of the sequence in which the legs stomp. The speed at which the feet move up and down also increases as you reach the later levels. Your character in this game is a small bug that has 3 lives. You must navigate your bug through the line of stomping feet in an attempt to reach the right hand side of the screen. If your character gets stomped in that process, one life is deducted, and the current level is restarted. When you succeed in navigating the bug across the floor, that level is beaten and the next level of the game begins. When your bug gets stomped and has no lives remaining, the game is over. Each level of the game has a timer that is used to time a best result for each level. Your goal is to make it as far as possible, while completing each level in the smallest amount of time.
+Use <Left/Right arrows> to move your bug.
+Press <Esc> to quit or restart game.
+Press <Tab> to show the best results list.
+Version 1.1.16
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,3 @@
+This application counts calories taken in during the day, along with the ratios of carbohydrates, protein, and fat. The base of foods allows you to select food and also to add your own food items. Records from the last seven days are saved in the application.
+Version 1.2.17
+COPYRIGHT © 2000 CYBIKO, Inc.

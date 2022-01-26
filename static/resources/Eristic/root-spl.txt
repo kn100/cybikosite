@@ -1,0 +1,5 @@
+Eristic is a two-player game. The object of the game is to remember a sequence of arrows. In your turn, the sequence of arrows have to be repeated correctly as you add a new arrow at the end. If you do not repeat the sequence correctly or do not press an arrow in 6 seconds, a point is added to your opponent and you begin the new sequence. The winner is the player who the first gets 10 points.
+Press <Arrows> to enter the sequence or to add an arrow.
+Press <Esc> to exit.
+Version 1.1.11
+COPYRIGHT © 2000 CYBIKO, Inc.

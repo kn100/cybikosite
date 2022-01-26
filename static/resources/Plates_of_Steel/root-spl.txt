@@ -1,0 +1,12 @@
+This is a war simulation game for 2 players. The playing field is a terrain with natural surfaces. Each player controls the army consisting of various units with different parameters.
+The game consists of two phases: placement phase and war phase.
+During the placement phase each player selects, and places the 10 units and one headquarters on their own side of the playing field on empty spaces.
+When the players have placed all their units, the war phase begins. In the war phase each player moves in turns. Each player can use all his/her units in a turn. A unit can move and attack. A unit can be repaired if it moves inside own headquarters.
+When a player decides that all actions have been completed, he/she must give a turn to the opponent.
+If one of the players fully destroys enemy headquarters, captures the enemy headquarters with troop units, or destroys all enemy units, the game ends and this player is a winner. The game can end in draw if there is no possibility to achieve the winning situation.
+For full detailed rules see our site www.cybiko.com
+To start game select the "Start" item by <Up/Down arrows> and press <Enter>.
+Press <Esc> to exit the game.
+Read help for each phase.
+Version 1.1.18
+COPYRIGHT © 2000 CYBIKO, Inc.

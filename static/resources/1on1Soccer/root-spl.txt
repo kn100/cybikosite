@@ -1,0 +1,7 @@
+Outscore your partner or Cybiko in this famous sport. Your aim is to kick the ball into your partner's goal and defend your goal from your partner's kick. The winner is the first player who scores 5 goals.
+Use <Left/Right arrows> to define the direction of your movement.
+Press <Enter> to select either the kick or bump mode.
+Use <Up arrow> to move forward. Use <Down arrow> to move backward.
+Press <Esc> to exit the game.
+Version 1.1.8
+COPYRIGHT © 2000 CYBIKO, Inc.

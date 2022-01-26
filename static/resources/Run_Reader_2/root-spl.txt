@@ -1,0 +1,9 @@
+Version 2.1.22
+This application allows you to read text files and books. Now you can read them much quicker then usual due to new innovative feature called "Quick" reading. In this mode, words are shown one-by-one in a large font on the screen. You will devour books and achieve the speed of reading 700 words in a minute. You can download different books that we have prepared for you using CyberLoad (see Additional Content folder, sub-folder "For Run Reader") or you can create your own books using Cybiko Book Creator program. You can adjust your reading method by selecting "Scroll" or "Quick" mode, defining the speed and font color.
+Use <Up/Down arrows> to choose an option.
+Press <Enter> to run it.
+Select "Read" to read a book or a text of your choice.
+Select "Options" to adjust the reading options.
+Select "Exit" or press <Esc> to exit the application.
+Note: Read help for every application screen to learn more about the application usage.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,9 @@
+This is a single player game. Welcome to the Cybiko Zoo, where our curator, CyZee, will guide you! The goal of the game is to guess as many of the names of animals and birds as you can.  This is how you obtain points while you try to find the exit from the Zoo.
+Upon starting the game, you may take a look at the information about our inhabitants, or you can be daring and take the quiz right away. There are 6 levels of difficulty in the quiz as you try to guess the animals, beginning from the simplest level first and ending with the most difficult sixth level. Walking in the Zoo, you must enter the cages along the way to guess their identities. Having some information about the animal, you have two efforts to guess its identity and get the points for it. Use your points to buy more prompts. If you don't guess the animal, the cage will be closed, and the path in this direction will be bridged for you. The game ends and you are a brain if you find the exit from the Zoo. You are the best if your score is the highest. The game also ends if you can't find the exit from the Zoo.
+For full detailed rules see our site www.cybiko.com
+Use <Arrows> to move your Cy-B in the Zoo.
+Press <Enter> to read the description of the already guessed animal.
+Press <Tab/Any key> to view/redo the current and the best scores.
+Press <Esc> to exit or restart the game.
+Version 1.1.4.
+COPYRIGHT © 2000 CYBIKO, Inc.

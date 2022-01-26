@@ -1,0 +1,11 @@
+Laser Battle is a strategy game for 2 players. Your goal is to hit the opponent laser source with your laser by placing reflecting mirrors and maneuvering playing objects (mirrors and laser source) on the game board to control the path of your laser . During your turn, you can do only one of the following with your objects: move your laser 1 square in any direction; rotate your laser; place a mirror on the game board; move pre-existing mirror 1 square in any direction; rotate pre-existing mirror.
+Lasers begin to shoot after the sixth turn.
+The player who hits the opponents laser is a winner.
+Use <Arrows> to move the pointer.
+To place a new mirror on the game board move the pointer to an empty square and press <Enter>. Then use <Left/Right arrows> to rotate the mirror and press <Enter> to finish positioning.
+To move your object set the pointer on it and press <Enter>, choose "Move" and press <Enter>, then move pointer to an empty square and press <Enter>.
+To rotate your object set the pointer on it and press <Enter>, choose "Rotate" and press <Enter>, then rotate an object and press <Enter>.
+You can press <Esc> to cancel action you have chosen.
+Press <Esc> once or twice to exit.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

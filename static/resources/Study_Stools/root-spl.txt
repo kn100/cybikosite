@@ -1,0 +1,8 @@
+This is an application that keeps track of your homework assignments. You can then review homework assignment records to ensure that they get completed. The application also allows you to add your own subjects to the subject list. 
+Use <Up/Down arrows> to select the menu item.
+Press <Enter> to open the selected item.
+New Assignment - to add a new assignment.
+View Assignment - to open the list of the last seven records.
+Exit - to exit the application.
+Version 1.1.8
+COPYRIGHT © 2000 CYBIKO, Inc.

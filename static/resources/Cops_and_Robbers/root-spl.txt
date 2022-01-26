@@ -1,0 +1,17 @@
+This is a manhunt! This is a blood bath! While one player threads his way through the town, pilfering all the money he can find, the other acts as the long arm of the law, hunting his adversary down like the dog he is!
+To add a bit of flavor to the game, we've decided to make the thief tire as he/she grabs more cash!
+Carrying a lot of money wears the Robber out. As the Robber gets more and more tired, the Robber moves more and more slowly. So the Robber has to stop in a hotel to rest. And that restores all his energy.
+The Cop doesn't get tired, and if he shoots the Robber three times the Robber will die! The Cop can arrest the Robber if comes up to him.
+The Cop can view a city map but he can't move in the map mode.
+<Up arrow> - walk forward.
+<Down arrow> - walk backward.
+<Right arrow> - turn to the right.
+<Left arrow> - turn to the left.
+<Shift> - slide left.
+<Fn> - slide right.
+<Space>, <Enter> - fire.
+<Tab> - look at the map (for the Cop only).
+<Esc> - exit game.
+
+Version 1.1.9
+COPYRIGHT © 2000 CYBIKO, Inc.

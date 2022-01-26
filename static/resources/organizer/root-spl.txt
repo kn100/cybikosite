@@ -1,0 +1,3 @@
+The organizer lets you store data about your appointments to keep you on time.
+Version 1.2.79
+© CYBIKO Inc., 2000

@@ -1,0 +1,9 @@
+Enter your or your friend's birthday and learn about your animal, and your horoscope.
+Select the "Year " or the "Day" item using <Up/Down arrows>.
+Press <Select>, <Tab>, <Enter> or <Right arrow> from the title field to switch to the input field. Use numeric keys to enter the day. Press <Enter> to accept the change. Press <Esc> to reject it.
+Select the "Month" item using <Up/Down arrows>. Use <Select> or <Left/Right arrows> to select the month in the editing field. Press <Enter> or <Tab> to accept the change. Press <Esc> to reject the change.
+Press <Space> to open the horoscope.
+Use <Up/Down arrows> to scroll the text.
+Press <Esc> to exit or restart the game.
+Version 1.1.5
+COPYRIGHT © 2000 CYBIKO, Inc.

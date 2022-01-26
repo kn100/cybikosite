@@ -1,0 +1,9 @@
+Version 1.1.33
+This application allows you to play *.music files. To learn more about these files or to download them to your Cybiko computer, see our site www.cybiko.com.
+If you have no *.music files downloaded to your Cybiko computer, the Music Player application puts one demo file in the Music Player Library, and you'll be able to listen to it and get to know how the application works.
+Use <Up/Down arrows> to move the highlight through the list.
+Use <Fn><Up/Down arrows> to move the highlight one page up or down.
+Use <Left/Right arrows> to move the highlight to the beginning or to the end of the list.
+Press <Enter> to switch to the Music Player screen and start playing the highlighted file.
+Press <Esc> to leave the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

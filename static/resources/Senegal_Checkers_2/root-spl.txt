@@ -1,0 +1,11 @@
+Version 2.1.12
+This two-player game is played on a board of 5x6 squares. A single checker moves forward, right, or left only one square at a time to an unoccupied square. Checkers capture an opponent by jumping over an opposing checker to an unoccupied adjacent square. The captured checker is removed from the board. Checkers may jump forward, backward, left, or right. Multiple jumps are allowed. A checker that reaches the opposite side of the board is removed from the board.
+The object of the game is to capture more checkers than your opponent in a limited time (if you choose the time-limited game). If any player exceeds this time, he/she loses and the game ends.
+The game also ends when one of the players has no checkers on the board.
+For full detailed rules visit our site www.cybiko.com
+Use <Arrows> to move the pointer.
+Press <Enter> to pick up or to move the checker.
+Press <Select> at the intermediate squares in multiple jumping.
+If you want to see your rating and that of your opponent, press <R>. Press <Enter> to close the rating box.
+Press <Esc> to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

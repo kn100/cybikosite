@@ -1,0 +1,8 @@
+Version 1.1.8
+Rage of Dragons is a two-player (or you vs. Cybiko computer) fighting game in which the object is to outscore your opponent. Every player controls a dragon that can shoot fireballs.  The host player always controls a light colored dragon, while the invited player (or computer) controls the dark one. Your dragon will fly around the screen. You can turn it and make it loop. Each dragon has 4 heads. Once you hit the opponent's dragon, it loses a head. After the dragon has lost all of its' heads, you score a point. After each scored point the heads of the killed dragon are restored and the game continues. If a dragon eats a bonus, it gets an additional head. The game play lasts until one of the players earns 25 points and becomes a winner. If there is a draw game, game play will be continued until one of the players scores more points than the other.
+Press <Right/Left arrows> to turn the dragon clockwise and counterclockwise.
+Press <Enter> to throw a fireball.
+Press <Select> to loop the loop.
+Press <Tab> to view the best scores.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

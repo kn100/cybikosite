@@ -1,0 +1,3 @@
+A simple version of Billiards.
+You must knock the balls in to the billiard pockets by hitting them with a second billiard ball struck by the cue.
+© CYBIKO Inc., 1999

@@ -1,0 +1,9 @@
+There are numbers falling from the top of the screen. You can control the falling numbers to group them so that the sum of the numbers in a straight line (vertical, horizontal or diagonal) equals ten. If a "ten" line comes in, all the numbers disappear and your score increases greatly. If you combine five 2's in a line, you score 1000 points.
+The next level begins if playing field is cleared or every 5,000 points you score. The game is over when one column is full.
+Your goal is to score the most points and to pass as many levels as possible.
+Press <Left/Right arrows> to move a falling number.
+Press <Down arrow> to accelerate a drop of the falling number.
+Press <Enter> to pause the game. Press <Enter> again to resume the game.
+Press <Esc> to exit or restart the game.
+Version 1.5.3
+COPYRIGHT © 2000 CYBIKO, Inc.

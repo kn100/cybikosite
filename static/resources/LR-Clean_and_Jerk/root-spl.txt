@@ -1,0 +1,6 @@
+Version 1.1.27
+The game consists of two parts. Each player controls an athlete, and the first part is training this athlete. The second part is competing against other Cybiko computer users to clean and jerk more than your opponent. The object of the game is to make your athlete the champion.
+Use <Up/Down arrows> to select an option from the list.
+Press <Enter> to execute the selected option.
+Press <Esc> to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

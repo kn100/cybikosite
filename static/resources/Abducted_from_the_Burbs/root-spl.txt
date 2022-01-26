@@ -1,0 +1,9 @@
+Version 1.1.10
+This is a one-player game. You'll take on the role of a farmer who was abducted and wakes up to find himself on an alien spacecraft. The object of the game is to escape from the spaceship while avoiding or fighting off the aliens. The game has 5 levels; passing through an airlock advances you to the next level. The aliens may be light and dark. If they hit you, you'll lose health points. Light aliens are more powerful - to destroy them 3 hits are needed, while dark aliens only require 2 hits. To fight the aliens, you may use either your arms or legs. To find an airlock, you have to move to the right. At the end of the last level, you'll meet the aliens' captain who is much stronger than his pals. Ears of corn serve as power-ups, as each one raises your health. You have 3 lives in the beginning. Once your health runs out, you lose one life. You score points for every kick or punch you deal to the enemy, for each destroyed alien, and also if you pick up ears of corn being completely healthy. The game continues until you lose your last life, or until you win the game by passing all 5 levels.
+Use <Left/Right arrows> to walk left or right.
+Hold <Tab> and use <Left/Right arrows> to run left or right.
+Press <Enter> to punch.
+Press <Select> to kick.
+Press <Space> to open an airlock at the end of level.
+Press <Esc> to go to the Game Menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

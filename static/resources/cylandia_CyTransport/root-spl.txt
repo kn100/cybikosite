@@ -1,0 +1,10 @@
+Version 1.1.13
+CyTransport is an add-on to the well-known game CyLandia. With the help of this add-on, Cy-Bs you've raised can be sent by e-mail on any device. However, you have to know the ID of the Cybiko computer to which you send your Cy-B; otherwise it will be an improper action and you could lose the Cy-B.
+Your Cy-B will be sent as a common e-mail message through the E-Mail application. You can look over the respective message either in the E-Mail Outbox on the sending device or in the E-Mail Inbox on the recipient device.
+Remember, the mail with your Cy-B may be lost somewhere on the way or in the device to which you have sent Cy-B if it doesn't have CyLandia. In that case, your Cy-B might disappear without a trace.
+Use <Up/Down arrows> to move through the Cy-B's names.
+If the Cy-B is located in CyLandia, use <Enter> to send the selected Cy-B by e-mail.
+If the Cy-B is located in your Outbox, use <Enter> to cancel sending the Cy-B.
+If the Cy-B is located in your Inbox, use <Enter> to receive the Cy-B.
+Press <Esc> to leave the add-on.
+COPYRIGHT © 2001 CYBIKO, Inc.

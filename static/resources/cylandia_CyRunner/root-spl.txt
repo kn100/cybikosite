@@ -1,0 +1,9 @@
+Cy-B CyRunner.
+Version 1.1.23
+This is an add-on to CyLandia - a 1-4 player race game. A grown-up Cy-B can both run alone and compete with other Cy-Bs. The goal of the game is to lead your Cy-B to the finish line as fast as possible. On the way, Cy-B has to get past the obstacles by jumping over or diving under them. If you don't control your Cy-B, they'll walk through the course and go around the obstacles.To take part in a heat, you have to pay the entrance fee - Cy$<number>. This money makes up a prize fund, and is divided between the heat organizer, the winner and the second place finisher. According to the Cy-B's health and strength, their energy is calculated. The faster Cy-B runs, the quicker their energy decreases. With no energy, your Cy-B falls down exhausted. The energy also decreases when Cy-B falls because of obstacles. The energy is restored while Cy-B is either lying on the ground or walking. Playing CyRunner can increase your Cy-B's health, strength and sociability (if they compete with other Cy-Bs). The game ends after all the competitors have finished (your Cy-B may need to wait for the rest).
+Hold <Right arrow> to accelerate.
+Hold <Left arrow> to decelerate.
+Press <Select> or <Up arrow> to jump over an obstacle and to stand up after a fall.
+Press <Enter> or <Down arrow> to dive under an obstacle.
+Press <Esc> to leave the game.
+COPYRIGHT © 2000 CYBIKO, Inc.

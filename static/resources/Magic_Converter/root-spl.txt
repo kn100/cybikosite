@@ -1,0 +1,10 @@
+The Magic Converter application allows you to convert any quantified measurements from one measuring system to another one. You can convert such measurements as: length, temperature, weight, speed, area and capacity. In this application, the measures are converted from the metric measuring system to the imperial measuring system and vice versa.
+Use <Tab> to switch between tabs with different measurement types.
+Use <Select> to switch between the left and right bottom fields with the list of unit of measures.
+Use <Left/Right arrows> to select the desired unit of measure.
+Use <Shift><Left/Right arrows> to move pointer in the input field.
+Press <Enter> to convert the entered value. The converted value will be shown in the upper right field.
+Press <Ins> if you want to replace the received result into the upper left field.
+Press <Esc> to exit the application.
+Version 1.1.13
+COPYRIGHT © 2001 CYBIKO, Inc.

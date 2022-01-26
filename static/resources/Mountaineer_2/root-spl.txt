@@ -1,0 +1,7 @@
+Version 1.1.7
+Mountaineer 2 is a two-player action game in which the object is to win the climbing competition as you attain the highest score. The competition consists of 5 rounds; to win a round, you have to be the first to reach the top of the mountain. While climbing you have to avoid boulders that drop from the top of the screen (the Yetis throw them) and birds flying across the screen. If a boulder or a bird hits you, it will decrease your health meter. When your health runs out, you begin climbing from the foot of the mountain. Do not forget to pick up bonuses: an edelweiss will bring you points, a medicine chest will increase your health and score, the shield will bring some points and offer you timely protection from falling boulders, and a boot will increase your speed in the round as well as score you some points. If you have a draw in a round, then there will be additional rounds held until one player is the first to reach the top. Aside from picking up bonuses, you can earn points for reaching the top of the mountain and for touching the Yeti. The game ends after the competition winner is known. The entire game is won by the player who has won more rounds than the other.
+Use <Left/Right arrows> to move horizontally.
+Use <Up/Down arrows> to climb up and down.
+Press <Tab> to view the Best Scores table.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

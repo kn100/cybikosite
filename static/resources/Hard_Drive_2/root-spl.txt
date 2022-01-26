@@ -1,0 +1,9 @@
+Version 1.1.3
+This is a single player game. You are a racer and your goal is to achieve the fastest time while completing the different races!
+There are five levels in the game: E, D, C, B, A, from easiest to the hardest respectively. Each level includes several tracks. Upon starting each level, you must buy the best car in the shop, and choose the track that you want to race on first. To complete the level, you have to pass each of its tracks. To go to the next level, you have to pass the previous one and get the necessary money to buy the next level's car and pay the entry fee. The faster your time, the more money you'll earn. If you don't have enough money to buy the new car, you may pass any track of the lower level with the corresponding car from your garage and earn the money. Upon starting the game, you have $1400 (that's enough to buy the first level's car). Upon starting, there will be a countdown from 3 on the screen.  After "Go!!!" flashes, you'll begin to control your racer. The game ends when you pass the track on the fifth level.
+For full detailed rules, visit our Web site: www.cybiko.com.
+Use <Left/Right arrows> to turn your racer left or right.
+Press <Enter> and hold to accelerate.
+Press <Select> and hold to decelerate.
+Press <Esc>, and choose the "Quit" button, to exit to the Main Menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

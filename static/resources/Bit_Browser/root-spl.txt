@@ -1,0 +1,6 @@
+Version 1.1.5
+This application allows you to view and edit the files stored in the flash-memory of your Cybiko computer in byte-serial mode. Upon starting the application, you select the file from the list. The application shows you the file divided into the fragments-strings of 8 symbols. At the top of the screen, you can see the address of a selected symbol, file size and file name. The screen shows you the address of the current string, the symbols of the string in hexadecimal notation, and the symbols (characters) in the first, second and third columns-panes, respectively. You work in the View and Edit modes.
+Use <Up/Down arrows> to choose the file from the list.
+Use <Left/Right arrows> to move to the first file or to the last one.
+Press <Enter> to open it.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,8 @@
+Darts 2 is game of accuracy. Players toss darts at a round dartboard. The dartboard has concentric rings divided into sectors with different point values. A hit to the value board scores a certain amount of points. Each sector has a value number in front of it. There are two narrow rings that modify the value of each sector. The ring at the edge - the double ring. The ring in the middle - the triple ring. The centermost ring or the "core" - 25 points, and a central circle or the "Bullseye" - 50 points.
+Players toss three darts per turn. The points are subtracted from the score.
+Each player begins the game with a score of 501 points. The winner is the first player who achieves exactly a score of zero.
+For detailed rules, visit our site www.cybiko.com
+Use <Enter> in all game actions.
+Press <Esc> to exit the game.
+Version 2.1.11
+COPYRIGHT © 2000 CYBIKO, Inc.

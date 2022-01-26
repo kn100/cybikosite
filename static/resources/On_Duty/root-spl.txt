@@ -1,0 +1,12 @@
+Version 1.1.6
+This is a single player game in which the object is to coordinate the squad of firefighters.
+Each firefighter has resistance and health bars in the info area. If he's been near the fire for too long, his resistance lowers to zero, and his health begins to go down. After the firefighter loses all his health, he will have to retreat, and will no longer be available for that level. For the experience the firefighter has achieved, he can be awarded with stars - 3 stars is the best.
+To pass a level, you have to extinguish all burning places. Note that a square that's been burning for some time can ignite surrounding areas. Walls will slow down the fire's expansion. Computers that are turned on must be turned off (by moving a firefighter to the power switch) before they are extinguished. Bombs hidden in the building can detonate if not reached early enough. In some levels, you can also control a trapped citizen in order to save him, but he can't help extinguish the fire.
+You score points depending on the area burned out, plus for each object saved. The game ends if the trapped citizen perishes or all your firefighters have retreated. You win the game after you pass the 9th and last level.
+Use <Arrows> to steer the cursor around the screen.
+To select a firefighter, you can either press <Tab> to cycle through them, press <1>, <2>, <3>, <4>, <5> or <6> to choose, or move the cursor onto the desired firefighter and press <Select>.
+Press <Enter> to send the selected firefighter to the place where the cursor is.
+Press <Ins> to move the cursor onto the selected firefighter.
+Press <S> to show/hide the info area.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

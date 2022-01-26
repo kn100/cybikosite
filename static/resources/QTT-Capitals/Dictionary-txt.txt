@@ -1,0 +1,300 @@
+What is the Capital of Delaware?
+Dover
+Columbus
+Harrisburg
+Trenton
+Pennsylvania's State Capital is?
+Harrisburg
+Pittsburgh
+Reading
+Erie
+The Capital of New Jersey is?
+Trenton
+Cleveland
+Scranton
+Clarksburg
+What is the Capital of Georgia?
+Atlanta
+Savanna
+Columbus
+Augusta
+What is the Capital of Connecticut?
+Hartford
+Wheeling
+Freemont
+Grafton
+What is the Capital of Massachusetts?
+Boston
+Hartford
+Longhamm
+Salem
+Maryland's State Capital is?
+Annapolis
+Ocean City
+Washington D.C.
+Dover
+South Carolina's State Capital is?
+Columbia
+Greenville
+Aiken
+Florence
+New Hampshire's State Capital is?
+Concord
+Springfield
+Terence
+Hampton
+The Capital of Virginia is?
+Richmond
+Glen Falls
+Frankford
+Raleigh
+What is the Capital of New York?
+Albany
+Buffalo
+New York City
+Syracuse
+The Capital of North Carolina is?
+Raleigh
+Rock Hill
+Mount Olive
+Richmond
+The Capital of Rhode Island is?
+Providence
+Cirrus
+Portage
+Canton
+What is the Capital of Vermont?
+Montpelier
+Harris
+Terrence
+Mount Collier
+The Capital of Kentucky is?
+Frankfort
+Louisville
+Hazard
+Beaver Dame
+What is the Capital of Tennessee?
+Nashville
+Chattanooga
+Collier
+Danville
+The Capital of Ohio is?
+Columbus
+Cincinnati
+Cleveland
+Conneaut
+What is the Capital of Louisiana?
+Baton Rouge
+New Orleans
+Birmingham
+Pensacola
+The Capital of Indiana is?
+Indianapolis
+Fort Wayne
+Richmond
+Evansville
+The Capital of Mississippi is?
+Jackson
+Wheeling
+Jefferson
+Weston
+What is the Capital of Illinois?
+Springfield
+Chicago
+South Bend
+Dubois
+The Capital of Alabama is?
+Montgomery
+Birmingham
+Troy
+Licking Valley
+The Capital of Maine is?
+Augusta
+Topeka
+Vernon
+Morrison
+What is the Capital of Missouri?
+Jefferson City
+Jackson
+St. Louis
+Riverside
+What is the Capital of Arkansas?
+Little Rock
+Barton
+Baron
+St. Louis
+The Capital of Michigan is?
+Lansing
+Grand Rapids
+Detroit
+Dover
+The Capital of Florida is?
+Tallahassee
+Pensacola
+Tampa
+Orlando
+What is the Capital of Texas?
+Austin
+Houston
+San Antonio
+Dallas
+The Capital of Iowa is?
+Des Moines
+Boise
+Cedar Rapids
+Sioux City
+The Capital of Wisconsin is?
+Madison
+Green Bay
+Fargo
+Duluth
+What is the Capital of California?
+Sacramento
+Los Angeles
+Oakland
+San Diego
+The Capital of Minnesota is?
+St. Paul
+Minneapolis
+Duluth
+Sanis
+What is the Capital of Oregon?
+Salem
+Portland
+Mt.Union
+Freemont
+The Capital of Kansas is?
+Topeka
+Kansas City
+Pierre
+Garrett
+The Capital of West Virginia is?
+Charleston
+Clarksburg
+Wheeling
+Hephzibah
+What is the Capital of Nevada?
+Carson City
+Las Vegas
+Rio
+Rancho
+What is the Capital of Nebraska?
+Lincoln
+Poplar
+Weirton
+Geneva
+The Capital of Colorado is?
+Denver
+Aspen
+Madison
+Ashland
+The Capital of North Dakota is?
+Bismarck
+Fargo
+Racine
+Rockford
+The Capital of South Dakota is?
+Pierre
+Sioux Falls
+Grant
+Hillsbourgh
+The Capital of Montana is?
+Helena
+Hot Springs
+Hinkle
+Bandana
+What is the Capital of Washington?
+Olympia
+Seattle
+Sampson
+Olson
+The Capital of Idaho is?
+Boise
+Alton
+Ithaca
+Albany
+The Capital of Wyoming is?
+Cheyenne
+Weirton
+Cherokee
+Shinnston
+The Capital of Utah is?
+Salt Lake City
+Yakima
+Stanford
+Sirius
+The Capital of Oklahoma is?
+Oklahoma City
+Benson
+Chardon
+Mentor
+What is the Capital of New Mexico?
+Santa Fe
+Pierre
+Andover
+Oil City
+What is the Capital of Arizona?
+Phoenix
+Salt Springs
+Trenton
+Edgewood
+The Capital of Alaska is?
+Benson
+Juneau
+Jupier
+Jonseau
+The Capital of Hawaii is?
+Honolulu
+Maui
+Waikiki
+Samoha
+The State in the U.S. has the most coast line?
+Alaska
+California
+Texas
+Florida
+Which one of these States does not border Ohio?
+Tennessee
+Kentucky
+Indiana
+West Virginia
+Which one of these States do not border Indiana?
+Wisconsin
+Illinois
+Kentucky
+Ohio
+Which one of these States does not border Idaho?
+Colorado
+Utah
+Montana
+Oregon
+Which one of these States does not border Iowa?
+Kansas
+Missouri
+Illinois
+South Dakota
+Which one of these States does not border Alabama?
+North Carolina
+Georgia
+Florida
+Tennessee
+Which one of these States does not border Kansas?
+Iowa
+Nebraska
+Oklahoma
+Colorado
+Which one of these States does not border New Mexico?
+California
+Arizona
+Texas
+Oklahoma
+Which one of these States does not border Mississippi?
+Florida
+Alabama
+Tennessee
+Louisiana
+Which one of these States does not border West Virginia?
+North Carolina
+Maryland
+Kentucky
+Ohio

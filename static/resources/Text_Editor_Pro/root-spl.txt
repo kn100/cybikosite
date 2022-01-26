@@ -1,0 +1,17 @@
+This application allows you to create and edit text notes.
+It contains the very useful option of checking the spelling of your texts.
+Use alpha-numeric keys to enter text.
+Use <Arrows> to move the pointer through the text.
+Press <Select> to outline all the words you've entered with errors.
+To correct words with errors, move the pointer to the underlined word. Press <Fn><Select> for a quick search of correct alternatives or press <Shift><Select> for detailed search of correct alternatives. Select another word from the list and press <Enter>.
+Press <Select> to switch off the mode that underlines errors.
+Press <Ins> to switch between insert and overwrite mode.
+Press <Del> to delete the character.
+Press <BkSp> to delete symbols before the pointer.
+Press <Enter> to create new paragraph.
+Press <Fn><Left/Right arrows> to move to beginning/end of a line.
+Press <Fn><Up/Down arrows> to move page up/down.
+Press <Esc> to close and save the text.
+Press <Esc> in the "Open Text File" box to exit the application.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,2 @@
+Life Editor models the birth through death of organisms.
+© CYBIKO Inc., 1999

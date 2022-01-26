@@ -1,0 +1,7 @@
+Your goal is to score the most points by destroying the caterpillars in the maze in this single-player game. When Henry the Hero meets with a caterpillar, he loses one life. If Henry hits a caterpillar to the last segment of its tail the caterpillar dies. If Henry hits the caterpillar to its head or to the middle of its body, then the back part of the body disappears and the caterpillar become shorter. If Henry the Hero loses all lives the game ends.
+Press <Arrows> to control Henry the Hero in the maze.
+Press <Space> or <Enter> to fire.
+Press <Select> to switch on/off move sound.
+Press <Esc> to exit or to restart the game with a new maze.
+Version 1.1.8
+COPYRIGHT © 2000 CYBIKO, Inc.

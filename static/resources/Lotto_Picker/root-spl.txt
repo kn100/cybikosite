@@ -1,0 +1,22 @@
+Lotto Picker is an application that can pick random lottery numbers for you. The interface allows any lottery, with up to 50 drawn numbers and including each number up to 99, to be generated. We are not responsible if these are not the winning numbers of your lottery, but please enjoy this application to it's fullest.
+Select "Start" option to generate random numbers for lottery.
+Select "Exit" or press <Esc> to exit the application.
+Selecting the option "Start" opens a dialogue box "Lotto Menu". This dialogue box has 4 fields that you can fill in.
+The first field, "How many numbers", determines the amount of drawn numbers in the lottery in which you want to take part. The second field, "Bottom range", determines a lower bound of the numbers range from which random numbers will be chosen. The third field, "Upper range", determines an upper bound of the numbers range from which random numbers will be chosen. The fourth field, "Recurrence", can be switched either to the "On" mode or the "Off" mode. In "On" mode, the application can pick out two or more identical numbers, while in the "Off" mode, all randomly generated numbers will be different.
+Use <Up/Down arrows> to move through all of the available line fields and the "Ok" button.
+Press <Tab>, <Right arrow>, <Select> or <Enter> to switch to the data input fields.
+Enter the desired parameters by using the keys.
+Press <Enter>, <Tab> or <Up/Down arrows> to accept the changes, or <Esc> to reject them.
+Press <Esc> to exit the Title Screen.
+At the bottom of the dialogue box "Lotto Menu", there are "Ok" and "Cancel" buttons.
+Press "Ok" to generate random numbers for your lottery.
+Press "Cancel" to exit to the Title Screen.
+Once the "Ok" button is pressed, you'll see an animation of randomly generated numbered balls pop up out of a tube and roll across to the right hand side of the screen. The number of balls that pop out of the tube is determined by the "How many numbers" field, and the range of the random numbers is determined by the "Bottom range" and "Upper range" fields.
+Press <Enter> to show all generated numbers on the screen right away without animation.
+Only 10 numbered balls can be displayed simultaneously on the screen. If you set the value of "How many numbers" field to more than 10, you have to press <Enter> to see the remaining numbers. Press <Enter> as many times as you need.
+When all randomly generated numbers have been shown on the screen, you can press <Select> button to see all numbers in the "Collection" list.
+Use <Up/Down arrows> to move through the "Collection" list. You'll see all of the randomly generated numbers for your lottery.
+Press <Esc> to exit to the Lotto Picker screen.
+Press <Esc> or select "Exit" in the application menu to exit the application.
+Version 1.1.7
+COPYRIGHT © 2000 CYBIKO, Inc.

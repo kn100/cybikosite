@@ -1,0 +1,10 @@
+Version 1.1.12
+This program allows you to obtain (grab) screen shots (or dumps) from the Cybiko screen while playing a game or using an application. Dumps are stored on a flash under names such as grab001.pic, grab002.pic, etc. You can look at them by using the Graphic Editor or Uploader&File Manager applications. With the help of Graphic Editor, you can edit these obtained pictures.
+Use <Arrows> or <Tab> to move through all the available keys and the "Ok" and "Cancel" buttons.
+In top line you'll see the current key or key combination.
+In the next two lines, you'll see the four buttons that you can choose to use as keys for grabbing pictures.
+The <Shift> and <Fn> buttons are used to compose key combinations.
+Press <Enter> to choose a desired key or key combination for grabbing pictures.
+Press <Enter> or the "Ok" button to confirm your choice, or the "Cancel" button to reject it.
+Press <Esc> to exit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

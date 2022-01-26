@@ -1,0 +1,7 @@
+Version 1.2.7
+This is a one or two player game of 36 levels. Each player gets a starship and 4 lives. You have to maneuver your ship to avoid colliding with the enemy objects while shooting at them with the goal of destroying them. Your ultimate goal is to pass all the game levels and to outscore your partner. Upon collision with an enemy object, you will lose one life, unless it happens while you have a shield. The shield is given for a few seconds at the beginning of the level and after you lose a life. If you fail to destroy all the objects and run out of bullets, you will lose one life and get more bullets with which you can play. You can also catch one of the bonuses (shoot-through-all bullet, extra-life, or additional points) by shooting at them. The next level starts after you clear off all the enemies. You score points for each destroyed enemy object and with time bonus you get for passing the level quickly. In a two-player game, the time bonus is awarded only to the player that destroyed the most objects in that level. An extra-life is awarded each time you attain 1,000 points. In a one-player game, you can be awarded with a bonus level. The longer you stay alive, the more points you'll get. The game ends for you after you lose all your lives or pass all the levels. The winner is the one who scored the most points.
+Use <Arrows> to control your ship.
+Press <Enter> to fire a bullet in the direction faced.
+Press <Select> to turn the ship upside-down.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

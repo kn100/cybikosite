@@ -1,0 +1,3 @@
+Grocery List is a list application that serves you as a small notebook. This application allows you to create lists where you may keep, edit and delete all necessary information. The maximum number of lists you may create is 10.
+Version 1.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

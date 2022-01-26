@@ -1,0 +1,6 @@
+Version 1.1.10
+The goal of this single player game is to save the Rover Reunion and reunite all of the Rover family in any tile on the game board. The family members are wandering on the roads contained in the tiles from one end of the road to the other. By moving the tiles to an unoccupied area, you have to join the roads the same way for all of the family members to arrive in the same tile. You have a limited amount of time to do this. If you succeed, you go to the next level and get points for each family member, plus bonus points for the remaining time. A warning sound will notify you when the time is about to be expired. If you don't get all of the family members reunited in the allotted time, the game is over. The game also ends if you pass all 10 levels.
+Use <Arrows> to move the tile to an unoccupied area.
+Press <Tab> to view the Top 10 list.
+Press <Esc> and choose the "Quit" button to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

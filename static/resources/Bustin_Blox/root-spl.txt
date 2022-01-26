@@ -1,0 +1,7 @@
+This is single player game. Your object is to pass 10 levels of the game, eliminating all the blocks from the playing field. You control the paddle, which deflects the ball that travels on the screen. You have to move the paddle so that it makes the ball collide one of the blocks in the screen. When all blocks on the screen are beaten, you'll go to the next level.
+You have three balls during the course of the game. If a ball reaches the bottom of the playing field, it is lost, and the next ball is provided. You'll get points for each block you hit. If you pass a level without losing the ball or without letting any blocks re-appear, you'll get additional points. The game ends when you lose all the balls. You win the game if you beat all the levels.
+Press <Enter> to begin the game or to continue the game with a new ball.
+Use <Right /Left arrows> to move the paddle right or left.
+Press <Esc> to exit or restart the game.
+Version 1.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

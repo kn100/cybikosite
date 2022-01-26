@@ -1,0 +1,11 @@
+The object of the game is to move all of your pieces across the game field from one corner to the other before your opponent can move all his/her pieces to the opposite side. Players take turns making moves. Only one piece can be moved during a turn. Movements can be made vertically or horizontally, forwards or backwards to an unoccupied square. A piece can move only one square during a turn  (simple move), or it can jump over a single piece - either your own or your opponent's. You can make several jumps (multiple jumping) during a turn if it is possible. However, you can't combine simple moves with jumps.
+The game is over when one of the players occupies the opposite city with their pieces.
+The game can also be over if one of the players exceeds the game time, then the other player is a winner.
+For full detailed rules see our site www.cybiko.com
+Use <Arrows> to move the pointer.
+Press <Enter> to pick up and place the piece.
+Press <Select> to make multiple jumps in one move.
+If you want to see your rating and that of your opponent, press <R>. Press <Enter> to close rating box.
+Press <Esc> to exit the game.
+Version 3.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

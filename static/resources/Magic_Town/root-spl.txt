@@ -1,0 +1,10 @@
+This is a single player game. Your object is to defeat all 12 levels in the town with your hero, Angel. You must make as few  moves and shots as possible. The goal on each level is to find one of the 12 keys. Angel can throw the stones at his obstacles. Each step that your hero takes will cost him a point, as well as each stone thrown at any obstacles. Located in the maze are boulders and reflectors. Reflectors can be used to deflect a stone throw when cast upon the mirrored surface. You can move the boulders, reflectors and traps by throwing the stones at them. There are different obstacles: blank walls (can't be destroyed), brick walls (can be destroyed by the stone), lava-stream (you can get cross this obstacle if you push down one of the boulders) and water (it will quickly move your hero from one place to another). Avoid the different traps that shoot at you! If you cast a stone at the right side of the traps (the side from which they shoot) using the reflectors, you will destroy them. If you are dissatisfied with your last move or throw, you can cancel it. When the hero passes all 12 levels the game ends.
+Use <Arrows> to move your hero.
+Use <Enter> to throw a stone.
+Press <Tab> to switch on scrolling mode of the map. Use <Arrows> to scroll the labyrinth map. Press <Tab> again to return to game mode.
+Press <Select> to show the level information.
+Press <Ins> to show the current score.
+Press <Esc> to show menu screen.
+Press <BkSp> to undo the last move or throw.
+Version 1.1.32
+COPYRIGHT © 2000 CYBIKO, Inc.

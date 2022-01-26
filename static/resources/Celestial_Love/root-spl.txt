@@ -1,0 +1,7 @@
+Version 1.1.9
+Learn your fortune in love, as told by the stars, in this application. Look toward the future that is waiting you and your significant other. Find the BEST sweetheart for you!
+Press <Select> or <Tab> to move the pointer on one of two scales.
+Use <Left/Right arrow> to choose a zodiac sign on the active scale or press <Ins> to select a zodiac sign from the list.
+Press <Enter/Esc> to open or close the result screen.
+Press <Esc> to quit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

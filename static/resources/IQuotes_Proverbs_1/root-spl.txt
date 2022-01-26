@@ -1,0 +1,15 @@
+Version 1.1.2
+IQuotes: Proverbs is an application that allows you to read some of the greatest thoughts expressing folk wisdom. Here is the first piece of them.
+Upon starting the application, you are shown a Menu.
+Get proverb... - to get a proverb according to your current "Random selection" setting.
+Music - to turn on/off the music of this application.
+Start every - to turn on/off the mode of automatically giving out a proverb over a certain period of time. This period can be changed.
+Random selection - to turn on/off random selection of the proverbs. If the "Random selection" mode is off, you will get proverbs one after another starting with the first.
+Exit - to exit the application.
+Use <Up/Down arrows> to move the highlight through the items of the Menu.
+Press <Enter>, <Tab> or <Right arrow> to mark the value of the highlighted item.
+Press <Select> or <Right/Left arrows> to change the value.
+Use numeric keys to change the values in "hours" and "minutes" fields.
+After you read a proverb, press <Esc> or "OK" to return to the Menu, or select "More" to get another proverb.
+Press <Esc> or select "Exit" to exit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

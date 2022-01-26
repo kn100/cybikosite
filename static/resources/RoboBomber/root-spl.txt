@@ -1,0 +1,16 @@
+Version 1.1.10
+RoboBomber is a two-player game, in which the goal is to kill your opponent 10 times. You start the game armed only with a dagger. More weapons (bombs, grenades, Tommy gun and bullets and missiles for it) can be found around the vault. Bullets and missiles can go through the walls; missiles can be blown up when you want. Other bonuses are a first-aid kit and invulnerability for 30 seconds. The bonuses are restored after a minute. Your health will decrease as you are hurt by fire, explosions and enemy hits. Once you are killed, you'll return to where you started and have only a dagger and invulnerability for a few seconds, whereas your opponent saves everything they have.
+Use <Left/Right arrows> to move left or right.
+Use <Up/Down arrows> to climb up and downstairs.
+Press <Down arrow> to bend down.
+Press <Select> to jump.
+Press <Tab> to change the weapons.
+Press <1>, <2>, <3>, <4> and <5> to select dagger, bullets, missiles, bombs and grenades, respectively.
+Press <Enter> to use the selected weapon (you shoot in the direction your hero faces).To shoot diagonally, press <Enter> while holding the desired arrow buttons. 
+To blow up a launched missile, press <Enter>.
+Press <Ins> to switch between info panels.
+Press <Del> to switch to the view mode and use <Arrows> to move around the vault.
+Press <Del>, <Enter> or <Select> to close the view mode.
+Press <Enter> to start a new life.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

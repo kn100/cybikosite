@@ -1,0 +1,8 @@
+Version 1.1.7
+This is a two-player game. You control a kangaroo who has decided venture into the sport of boxing. The object is to attain the highest score by beating your opponent in a boxing match. There are three rounds in each match, and each round lasts 1 minute. Your kangaroo, dressed in big boxing gloves, may move in any direction in the boxing ring. Attack your opponent! You can strike them not only by a punch, but also by kicking them. When you land a successful blow, you'll see a blast from your opponent's eyes. For each successfully landed blow, you get 1 point. You win the match if you score more points than your opponent when the match ends. The game ends when the third round has ended. If the third round ends and the score is equal, an additional round will be conducted. In the case of a draw, the game lasts until one of the players takes an advantage in score.
+Use <Arrows> to move the kangaroo.
+Press <Enter> to strike by your right hand.
+Press <Select> to strike by your left hand.
+Use <BkSp> to strike with your legs.
+Press <Esc> to quit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

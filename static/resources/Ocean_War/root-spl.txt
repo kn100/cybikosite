@@ -1,0 +1,8 @@
+Version 1.1.10
+This is a two player strategic game in which your object is to destroy the enemy's fleet. Upon starting the game, you choose a mission or agree to play the chosen mission with the host player. Each player then creates their fleet in accordance with the chosen mission: buy the ships and choose the flagship. Then the battle starts. The players in turn control their ships. Each player may, in each turn: choose the active ship, turn and move it, and fire (if enemy's ship is in view). With each turn, it is possible to fire one time from each side of your ship: front, back, left and right. Remember: if an opponent fires at your ship, you may fire back only from those sides of your ship that were not used in your previous turn. Use the Chose Action Menu to repair your ships, to fire, to view the map and give the turn to your opponent. The game ends when any player performs the mission. This player is a winner. For full detailed rules see our site www.cybiko.com.
+Use <Select> to choose the active ship (if you have more than 1 ship).
+Use <Left/Right arrows> to turn the ship counterclockwise or clockwise.
+Press <Enter> to move the ship to the chosen direction.
+Press <Tab/Esc> to open/close the Choose Action Menu.
+Press <Esc> and choose  "Quit" to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

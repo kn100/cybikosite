@@ -1,0 +1,7 @@
+There are four types of balls that are falling from the top. You can control falling balls to assemble a straight line of four or more balls of the same type or to assemble a straight line of four different balls. If this line comes in, all the balls disappear and the score increases greatly. The game is over when the next ball no longer has any space to land. Your goal is to score the most points and to pass as many levels as possible.
+Press <Left/Right arrows> to move a ball.
+Press <Down arrow> to drop the ball.
+Press <Enter> to pause the game. Press <Enter> again to resume the game.
+Press <Esc> to exit.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,11 @@
+Version 1.1.3
+Your goal in this two-player game is to destroy your opponent's helicopter in an air fight! You control a helicopter in the deep mountain canyon.
+Upon starting the game, you have 30 lives. You also have a gun and an unlimited number of bullets in your arsenal. One hit with a bullet takes one life of the victim.
+The power-up bonuses (almost all of them are hidden in boxes) drop down from the sky. Pick them up and you'll find out what was inside and be able to inflict much more damage on your enemy: "heart" - gives you two extra lives; extra shots - to make more shots at the same time; flame thrower - takes 3 enemy lives if they are hit; "muffler" - to strike the enemy, which takes 1 life if the enemy is hit;  "Napalm" - to shoot the flammable liquid, takes 2 lives if the napalm connects.
+You may have only one bonus at a time. You also lose a life if you collide with a mountain or fall down to the ground. Your lives with your current bonus and your enemy lives are in the upper right and left parts of the screen, respectively. The game ends when any player uses up all his lives. The one who has survived is the winner.
+Press <Up/Down arrow> to move the helicopter up or down.
+Press <Left/Right arrows> to move the helicopter left or right.
+Press <Enter> to shoot with the gun.
+Press <Tab> to kick with the muffler or to shoot the flamethrower or "Napalm".
+Press <Esc> and choose the "Quit" button to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

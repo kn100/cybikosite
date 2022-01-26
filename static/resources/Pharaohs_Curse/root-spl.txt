@@ -1,0 +1,13 @@
+ This is a single player game. Your object is to pass all the levels of the pyramid and gather all emeralds. You get points for each one. On each level, the hero has to find some emeralds, and score a certain number of points to enter the door that leads to the next hall. Any contact with a ghost causes you to lose a live. Upon starting the game, you have four lives. You have to find the discus to throw at the ghosts, and a pick to smash through the sandy walls (they are semi-transparent).
+ Your character can hold only one of these two objects at any one time. For each destroyed ghost, you will earn more points. When your score reaches 2000 points, you get an additional live. You may pass through doors only if they have a handle on that side. If you lose all your lives, the game ends. If you pass all the levels, the game ends and you win. The game is also over when you don't score enough points to reach the door that leads to the next hall of the pyramid.
+ For full detailed rules see our site www.cybiko.com.
+Use <Up/Down arrows> to go upstairs or downstairs.
+Press <Del> to use the object that you have (pick or discus).
+Press <Tab> to view informational field.
+Press <Enter> to make the hero jump.
+Press <Left/Right arrows> to move the hero left or right.
+Press <Enter> <Left/Right arrows> to make the hero jump left or right.
+While holding <Shift>, press <Arrows> to view the playing field.
+Press <Esc> to exit to the game menu.
+Version 1.2.12
+COPYRIGHT © 2000 CYBIKO, Inc.

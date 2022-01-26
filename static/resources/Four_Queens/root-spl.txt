@@ -1,0 +1,3 @@
+Four Queens are the fundamental cards in this interesting Solitaire game.
+Version 1.1.1
+© CYBIKO Inc., 1999

@@ -1,0 +1,16 @@
+The Tune Tamer application is a music collection organizer. It allows you to input information on different music albums you own, and search the data by the Artist's name, or by Song title.
+Press <Up/Down arrows> to choose the option from the title screen.
+Press <Enter> to run it.
+Select "Search Music" option to choose the way of sorting data, and to view the existing list.
+Use <Up/Down arrows> to move through the database list one record at a time.
+Press <Del> to delete the currently selected record.
+Press <Enter> to show detailed information on the currently selected record. This includes all information entered in the "Add Music" option (such as Production date, media type, album, etc.).
+Press <Esc> to exit to the title screen.
+Select "Add Music" to add records.
+Use <Tab> or <Up/Down arrows> to cycle through all available text input fields and the "Add" and "Exit" buttons.
+Use the keypad to enter the necessary information.
+Press <Enter> to apply the changes.
+Press <Esc> or select "Quit" button at the bottom to exit to the title screen.
+Select "Exit" or press <Esc> to exit the application.
+Version 1.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

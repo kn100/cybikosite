@@ -1,0 +1,18 @@
+Version 1.1.49
+This is a single player game. You are a skateboarder and your goal is to grab a pile of points for performing tricks while flying through the skateboard track in record time! Shred the pavement on Cybiko's gnarly inner city street track. Time your ramp jumps to catch massive air for the most awesome tricks. Skate over 5 fire icons to earn a BLAZING board! You get to collect double trick points until you bail. Pass the checkpoints to win more time. You lose time if you bail, but you'll score big rewards for landing a VARIETY of tricks. The more tricks you master, the more you score. For full detailed rules, visit our Web site: www.cybiko.com
+Press <Space> to pause the game and go to the Main Game Menu.
+Use the <Left> & <Right> arrows to move side-to-side. 
+Want to jump? Press <Enter>, dude. The longer you hold the button, the higher you jump. 
+Want to grind? Line up with the rail and hit <Enter>.
+Tricks are hidden on the Arrow, Tab, Select, Enter and Del buttons. Here's some to get you started:
+<Select> + <Right> = Frontside 180
+<Enter> + <Down> = High Jump
+<Enter> then <Tab> = 360 Spin
+<Right> on rail = Boardslide
+<Tab> = Kickflip
+<Del> + <Right> = No Comply
+<Del> = Handstand
+<Select> when on fire = 540 Shove-It
+<Tab> + <Left> when on fire = Double Heel
+Can you find all 35 tricks?
+COPYRIGHT © 2001 CYBIKO, Inc.

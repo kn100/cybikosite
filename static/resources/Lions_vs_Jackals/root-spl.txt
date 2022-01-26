@@ -1,0 +1,8 @@
+Version 1.1.5
+Lions vs Jackals is a logical game for two players, one of whom owns two lions (white chips) and the other has 24 jackals (black chips). The chips are placed on the special grid at intersection points.  Both lions and jackals can move to any adjacent point vertically, horizontally, or diagonally that is not occupied and which is connected to your current position. In addition, a lion can eat a jackal by jumping over it to the next unoccupied point and can eat several jackals per turn. The game is played in turns; lions go first. The players place all their chips on the playfield, and only after all chips of their color are placed on the playing field do they get the right to move them. The lions win after they eaten 8 jackals. The jackals win the game if they trap the lions so they can't make a move.
+To place a chip on the playing field, use <Arrows> to move the cursor and press <Enter>.
+To move a chip around the playing field, use <Arrows> to move the cursor, and press <Enter> to select one of your chips. Then use <Arrows> to choose where to shift the chip you've selected and press <Enter>.
+To eat a jackal chip, select one of the lion chips and use <Arrows> to move the cursor where the lion chip should be placed and press <Enter>. A small circle will appear. If it is possible to eat several jackal chips, place more circles on the playfield. When the entire path that the lion chip will go along is marked with circles, press <Enter>.
+Press <Del> to cancel the last selection.
+Press <Esc> to leave the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

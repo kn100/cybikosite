@@ -1,0 +1,9 @@
+Version 1.1.43
+Become a millionaire in this 1 to 7 player game. Your goal is to sell (remove) the entire portfolio by linking them together in a limited time.
+You own four types of stocks represented as solid shaded squares: black, white, dark gray and light gray. To sell, you must have two or more of the same stocks linked together horizontally and/or vertically. Find the linked stocks and sell (remove) them. When the stocks are removed, the objects above fill the empty space. A Stockbroker stands on the top of each column. If you sell all stocks from a column, the Broker gives you the commission. Sell the 80% of stocks to go to the second level, and then try to sell the 90% of stocks to go to the third level.
+The game ends when you remove all of the squares on the third level, when there are no more moves on any level, or when the time runs out.
+Use <Arrows> to move the cursor.
+Move your cursor over 2 or more squares of the same color linked together horizontally or vertically and press <Enter> to highlight the linked group. Press <Enter> again to remove the linked group.
+Hold <Select> to view the percentage of sold stocks.
+Press <Esc> and choose "Quit" to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

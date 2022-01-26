@@ -1,0 +1,3 @@
+Bill Collector is an application that helps you keep track of your bills and alerts you when any of them are due. Keep your bills in this application, and if you forget to pay any of your bills in time, you will know about this before anyone else comes after you for their money (an exclamation point is the signal that the bill is overdue). The number of letters in the field "Debtor" can't exceed 12 symbols. The number of letters in the field "Amount" can't exceed 10 symbols. 
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

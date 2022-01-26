@@ -1,0 +1,7 @@
+Bang Ball 2 is a single-player game. The object of the game is to hit the ball past the opponent, and into the goal area.  This will add one point to your score. The playing court is laid out left to right, with paddles at both ends. The field is separated by a center dividing line, which neither player can cross. There are 2 walls that run along the top and the bottom of the screen. The areas behind each of the paddles are the goal areas. You control the left paddle. The ball is bounced back and fourth until it is hit past either player into the goal area. When this happens, the player who successfully returned the ball past the opponent will get one point added to their score counter. The player who scored the goal serves the next ball. If you score 15 points before the Cybiko, you win the game. The ball doesn't have to contact a wall on a serve. On a return, the ball may be hit in any direction towards the opponent, and may contact a wall, or walls, before crossing the centerline. There are 3 power-up items that you can pick up: Slammer Paddle (speeds up the next ball), Power Paddle (increases your paddle size for the next 3 hits), Fast Paddle (increases the speed of your paddle for 15 seconds).
+Use <Arrows> to control your paddle.
+To serve, press <Enter>, select a direction by using the <Arrows> and press <Enter> again.
+If you want to see your rating and that of the Cybiko, press <R>. Press <Enter> to close the rating box.
+Press <Esc> to exit the game or to start a new game.
+Version 2.1.8
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,9 @@
+This is a card game in which the object is to get the lowest score by avoiding taking tricks containing hearts and the queen of spades. The game ends when any player has 100 or more points. If you take less than 100 score, you will win! The highest card of the lead suit takes the four cards in the trick. The player that does this gets to lead for the next trick. Each card in the heart suit is worth 1 point per card, while the queen of spades is worth 13 points. When a player takes all the heart cards and the queen of spades the player's score for that hand is 0 and 26 points are added to the scores of the other players. The first card thrown in any game will be the 2 of clubs. A player must follow suit when able to. If unable to, a player may play any card - except that on the very first trick, a player may not play a heart or the queen of spades. A player may not lead a heart unless hearts have been "broken" - that is, unless someone has already played a heart in a previous trick. A player with nothing left but hearts may lead a heart.
+For full detailed rules see our site www.cybiko.com
+Use <Left/Right arrows> to mark a card by the highlight.
+Press <Select> or <Up/Down arrows> to select/unselect marked card you would like to pass.
+Press <Enter> to pass selected cards to respective player or to place marked card on playing table.
+Press <Tab> to see the score table. Press <Esc> to close the table.
+Press <Esc> to exit the game.
+Version 2.1.17
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,9 @@
+Version 1.2.5
+The Cybiko Wireless Application Protocol (WAP) Browser will let your Cybiko computer browse specialized Internet pages that provide information and services to people all around the world!Press <Shift><Tab> to switch between the browser window and address field.
+Use the keypad to enter the WAP page address into the address field, and press <Enter> to load the page.
+Press <Up/Down Arrows> to scroll the WAP pages up and down in the browser window.
+Press<Enter> in the browser window to follow the currently selected link, or open a currently selected list. 
+Press <Tab> to switch next link or Address Field. 
+Press <Select> to cycle through visible links and active elements only (Links and elements that can be seen in the scroll window). 
+Press <Esc> to go to the Main Menu
+COPYRIGHT © 2001 CYBIKO, Inc.

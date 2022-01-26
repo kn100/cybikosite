@@ -1,0 +1,9 @@
+Version 1.1.52
+This three-player game is played on a billiards table with six pockets. The object of the game is to be the last player remaining in the game. A player knocks a cue ball with a cue, trying to put a ball into a pocket according to the rules. Each player has his/her own balls; either light, dark or striped. The player with striped balls starts the game. The order of turns is as follows: striped, light, and then dark.If a player sinks a ball (not the cue ball), he/she gets another turn. Otherwise, another player takes a turn. If any player sinks the cue ball, the turn goes on to another player and he/she must place the cue ball on the right quarter of the table. If he/she sinks a ball in this turn but the cue ball doesn't leave the right quarter, or it touches a ball that is located in the same right quarter, then the next turn belongs to the next player. When any player has all his balls sunk, he/she is out of the game. The game ends when only one player has balls left on the table. This person wins the game. 
+For full detailed rules see our site www.cybiko.com.
+Press or hold <Arrows> to choose the necessary angle of the cue. 
+Hold <Enter> to archive the strongest shot or select the keys from <1> to <9> to hit with definite strength beginning from the most easy to the strongest respectively.
+Use <Arrows> then press <Select> to place the cue ball.
+Press <Tab/Esc> to show/hide info screen.
+Press <Esc> to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

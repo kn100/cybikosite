@@ -1,0 +1,10 @@
+This is single player game. Your object is to pass five levels of the game and destroy all enemy troops with your robot. Upon starting the game, or any level, you must choose one of three robots with which you will play. You have three lives during the game. Your enemies consist of: soldiers, robots, jeeps, armoured cars, tanks, helicopters, and pillboxes. If enemy objects hit you, you will lose some of your health. When you lose one of your lives, the level restarts. When you destroy all of the enemies on the level, you will see the map showing the flag, which is on the place where you are and the circle, marked with a blinking, which is in the place where you should move. If you do it for short time, you will go to the next level. Otherwise, you lose one of your lives and the level restarts. Find one of these bonuses: a box with ammunition, a box with grenades, a box with rockets, a box with aiming rockets, and boxes with health and energy. If your robot loses all lives, the game ends. If you pass all of the levels and destroy all of the enemies, the game ends and you are a winner.
+Press <Left/Right arrows> to spin the robot counterclockwise and clockwise.
+Use <Up/Down arrows> to move the robot forward and backward.
+Press <Enter> to shoot with a machine-gun. 
+Press <Select> to throw the grenade.
+Press <Back Space> or <0> to shoot the rocket.
+Press <Del> to shoot the heat-seeking rocket.
+Press <Ins> to show/hide informational bars.
+Version <1.1.79>
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,8 @@
+Version 1.1.8
+  This is a single player game. Your object is to guide an insect down a busy highway and avoid getting hit by the oncoming traffic.  You get 1 point each time you avoid getting hit by oncoming traffic. If your insect collides with any of the oncoming traffic, it dies and the game continues with the new insect. There are three insects in the game. You have possibility to perform a roll maneuver three times in a game: to change your direction of movement, leaving the traffic beyond you. The cars will follow you and you'll be invincible for them. The game ends when the last insect remaining in the game dies. If your score is in the Top 10, you are asked to enter your name.
+  Use <Left/Right arrows> to turn the insect left or right.
+  Use <Up/Down arrows> to move the insect up or down.
+  Press <Enter> to perform the roll maneuver.
+  Press <Tab> to view the Top 10 list.
+  Press <Esc> and choose the "Quit" button to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

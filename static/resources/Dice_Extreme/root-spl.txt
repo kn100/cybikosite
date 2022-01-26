@@ -1,0 +1,8 @@
+Version 1.1.37
+This game is for 1 to 8 players. The goal is to pass all 3 game levels scoring the most points with dice combinations. To pass a level, you have to remove all dice combinations from the playing field. These combinations may be: Three 1's, Three 2's, Three 3's, Three 4's, Three 5's, Three 6's, 4 in a row, 5 in a row, 4 of a kind, Full House (2+3 of a kind), Any Combo (any combination of numbers) and Any Pair. Discard any number of dice and then draw. You can draw twice per hand. Every time you remove a combo, a hole is left behind with the point value scored. The combinations that may be used at the moment are flashing. You get bonus points for winning the level and for the time remaining. If you have 3 or 4 of a kind with a draw available, try to improve your hand by getting a 4 or 5 of a kind combination. If you improve to 4, you may also remove 3 of that kind, Any Pair or Any Combo and you'll get 4000 points anyway. If you get 5 of a kind, this means you have a WILD! And can remove any combination from the playing field for 6000 points. The game continues until you can't remove any more combos or until you run out of time. The game ends if you win the third and final level.
+Use <Arrows> to move a cursor.
+Put the cursor over the desired die and press <Enter> to discard/restore that die.
+Select the "Draw" button and press <Enter> to draw. 
+Select one of the flashing combo buttons and press <Enter> to remove it.
+Press <Esc> to go to the Main Menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,6 @@
+Version 1.1.11
+Your goal is to drown out the maximum number of enemies' ships with your gun placed on the coast.  Having hidden on the beach, you try to hit the enemies' ships. The farther away an enemy ship is, and the faster it moves, the more points you'll get if hit it. There is a counter in the right upper corner of the screen. This is the admissible number of ships that you may fail to hit. The game ends when the counter reads zero.
+Use <Left/Right arrows> to rotate the gun left or right.
+Press <Enter> to fire.
+Press <Esc>, and choose the "Quit" button, to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

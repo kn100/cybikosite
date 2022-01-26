@@ -1,0 +1,7 @@
+Version 1.1.14
+CyPedometer will allow you to estimate the distance traveled and estimate the speed at which you are traveling. Upon starting, you have to set your average running stride, average jogging stride and average walking stride (pre measured) in the configuration screen and select there if you want any signals to accompany the pace: "Sight", "Sound" and "Feel". Then, when you start measuring in the pedometer screen, you'll see the pace mode that you choose: "Jog", "Walk" or "Run", the timer, and your speed and traveled distance. You may change the pace mode (a new measuring will begin) or stop measuring for sometime time and then continue (results will be saved). Measuring occurs only if you choose the "On" status. If there is Workout Planner on your device in the case that you go for at least 3 minutes and cover at least 0.5 mile, you will be advised to save your results (the distance that you traveled ) there.
+Press <Enter> to start/stop measurement.
+Press <Up/Down> to increase or decrease the pace frequency on the device (to adjust your own pace).
+Press <Del> to switch the pace mode.
+Press <Esc> to exit to the game menu. If you are advised to save your results in Workout Planner, choose "Yes" button. 
+COPYRIGHT © 2001 CYBIKO, Inc.

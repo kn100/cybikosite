@@ -1,0 +1,6 @@
+In this game you control a space ship cruising above the surface of unexplored planet HU-19. Your ship is equipped with a laser that is able to destroy the enemy space ships that will try to attack you. Your spaceship has a limited shield that suffers damage when any encounter with an object or a spaceship occurs. You can pick up some power-ups, which can increase the level of protection and ammo. The game has four stages. Each next stage demands more bravery and accuracy. Your goal is to complete the breakthrough!
+Use <Arrows> to control your space ship.
+Press <Enter> to fire.
+Press <Esc> to exit or restart the game.
+Version 1.1.12
+COPYRIGHT © 2000 CYBIKO, Inc.

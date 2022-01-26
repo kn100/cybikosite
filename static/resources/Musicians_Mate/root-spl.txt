@@ -1,0 +1,7 @@
+Version 1.1.3
+This game allows you to train you musical ear. The program offers you melodies of 7 notes.  Listen to it, try to guess what notes are used in it, and then repeat the melody. For each note you guess correctly, you get some points. You also may choose the most pleasant sound for you. There is a counter on the screen in the right lower corner of the screen. This is the admissible number of mistakes that you may make. The game ends if the counter reads zero.
+Press <Enter> to listen to the melody.
+Press <Select> to set the pleasant sound for you (there are three sounds).
+Press buttons <1-7> to play the notes beginning from the lowest to highest respectively.
+Press <Esc> to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,11 @@
+Version 1.1.5
+This is a one-player game. You control a launcher that shoots guided missiles. The object is to defend your line of defense from alien starships for a certain time period. The game consists of three levels: 2-minute training, 5-minute training and 10-minute ultimate. You may choose to play any of them, but only playing the ultimate level will allow you to enter your score into the Best Scores list. If the traps reach your line of defense, they'll make your missiles move slower for some time. The bonuses are hearts (additional lives) and explosive bonuses. You have to shoot at them: to destroy a trap and to catch a bonus. Having an explosive bonus enlarges the firing range of your missile; if you've got two explosive bonuses, you can hit all starships on the screen upon hitting one of them. Explosive bonuses are only effective for one shot after they are caught. You earn points for every destroyed starship. The closer ship is to the line of defense, the less points you get. For the ships blown up with the explosive bonuses, you'll get the maximum points. Every shot fired beside a mark takes a point away from your score. The game play continues until you lose all your lives, or until the playing time runs out. If you survive on one of the training levels, you'll be recommended to try playing a higher level. You win the game when you pass the ultimate level.
+Use <Up/Down arrows> to move the launcher.
+Press <Enter> to shoot.
+Use <Up/Down arrows> to move a missile in flight.
+Press <Esc> or shoot at "Exit" to leave the game.
+Shoot at option to run it.
+Start - to start playing a new game.
+Best - to view the list of the 10 highest scores.
+Exit - to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

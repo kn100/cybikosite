@@ -1,0 +1,12 @@
+This is a single player strategic game. You are to organize the Turbinium production on the far planet named Zulun. First of all, you have to provide a Farm with people to run it. They will supply you with food. When you have enough food, you may organize coal production at the Coal Mine and tantal production at the Tantal Mine. Make sure your workers are well-fed. Don't forget to modernize your spaceship. It's very important because aliens' ships will attack you every time you take off.
+The goal of the game is to make a Rock Drill and deliver it to Turbinium Mine.
+Your ship can be armed with a laser gun, missiles, a blaster and a death ray.
+Money is very important in this game. Almost everything will cost you money. You have $100 in the beginning. You can get info about the weapon and other ship equipment in the buy box. Almost everything has its' own daily expenses, which are shown in the buy box.
+You can choose what to do in the menus.
+Shoot at the enemy ships after you have taken aim on them.
+Use <Arrows> to control the ship.
+Press <Enter> to use the laser gun.
+Press <Tab> to use the missile.
+Press <Esc> to exit or restart the game.
+Version 1.1.20
+COPYRIGHT © 2000 CYBIKO, Inc.

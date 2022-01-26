@@ -1,0 +1,8 @@
+WAR! is played with a standard deck of 54 cards, no suit is higher than another is. Cards are dealt for two players, each player has 27 cards in his/her stack.
+Each player places one card from the top of his/her stack facing up in the center of the table. These cards are then compared by order of value, and the card with the highest value wins. Both cards are then placed at the bottom of the winner's stack. In the event that both cards laid down are of equal value, it is WAR! When this happens, 2 cards from the top of each player's stack are laid face-down on top of their originally thrown card, and then a third card from the top of each player's stack is placed face-up on top of their other 3 cards that are on the table. These last cards laid down are then compared again, and the player with the card of highest precedence wins all cards involved in the WAR! 
+Game continues until one player gathers all 54 cards on his/her stack. This player is a winner. If a WAR! happens, and either player does not have enough cards to lay 2 face down, followed by one face up, that player automatically loses, and all remaining cards go to the other player.
+Press <Enter> to place a card when your nickname is outlined.
+During WAR! you have only to watch, the cards will be placed automatically.
+Press <Esc> to exit.
+Version 1.1.12
+COPYRIGHT © 2000 CYBIKO, Inc.

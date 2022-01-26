@@ -1,0 +1,8 @@
+Parachutin Pete is a single player action game. The goal in the game is to destroy the enemy gun. You must travel on your path by flying with a parachute, and you must either avoid obstacles that will take away your health or destroy them by throwing bombs at them. From time to time, cargo boxes will appear in the air. They can contain both the bombs and a piece of health. Clouds float all around you, and if you run into them, your speed will be reduced. However, some clouds will be moving very quickly. If you enter into one of these air streams, you will be taken along. Watch out for the vultures, because they can do some serious damage to your health. As you near the ground, you will encounter small tornadoes. If you fall into a tornado, you must make every effort to get out of this obstacle, for it destroys your health. You must hit the tornado twice with a bomb to destroy it. The more obstacles you destroy, the more points you will score. At the beginning of the game, you are given some time get acclimated. If you complete your goal faster, then the timer will be equal to zero you will receive bonus points. When you land on the ground, you must destroy the enemy gun. If you are lucky, you will be the winner.
+Use <Up arrow> to slow down the free fall of the hero.
+Use <Down arrow> to accelerate the free fall of the hero.
+Use <Left/Right arrows> to move the hero to the left or to the right.
+Press <Enter> to throw a bomb.
+Press <Esc> to exit or restart the game.
+Version 1.1.9
+COPYRIGHT © 2000 CYBIKO, Inc.

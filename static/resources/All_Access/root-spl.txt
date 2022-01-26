@@ -1,0 +1,6 @@
+Version 1.1.5
+This application will deliver the news to you on different topics of information. You may read, remove and keep bulletins, and stay updated on the hottest news.
+Use <Left/Right arrows> to choose the icon of the topic of information and press <Enter> to view its news.
+Press <Del> to delete the news.
+Press <Esc> to quit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

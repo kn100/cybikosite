@@ -1,0 +1,9 @@
+Version 1.2.12
+You control the hero that is trying to eliminate the enemy ground units. You can invite a friend to help you in this mission, or you can try to succeed on your own. The game has 3 levels, and each level gets progressively harder. The goal of the game is to pass all 3 levels.
+Your hero has a gun and three grenades at the beginning, and he can get grenade bonus during the game. He has 3 lives at the beginning of the game; each life has 100 health points. If he loses all 100 points, he loses 1 life. When you advance to the next level, 2 lives are added to your hero's lives. Your hero can also get a health pack bonus, which gives him 10 health points. If he loses all his lives, you lose the game. There are 3 types of enemies in the game: Gunner (enemy character that carries a machine gun), Bombardier (enemy character that throws grenades), Medic (enemy character that carries a health pack).
+Each level has it's own Boss-machine at the end, and it can sustain a certain amount of damage before it is destroyed. To destroy a Boss, your hero needs to damage it much more severely than normal enemy units. The three Boss-machines in the game are: Gunner Jeep, Iron Slug Tank, and Enemy Fortification. When your hero destroys a Boss, you will advance to the next level. If your partner destroys a boss before you do, you will advance to the next level as well.
+Use <Arrows> to move your hero.
+Press <Enter> to fire.
+Press <Select> to throw a grenade.
+Press <Esc> to exit.
+COPYRIGHT © 2001 CYBIKO, Inc.

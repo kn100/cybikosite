@@ -1,0 +1,4 @@
+Version 1.1.7
+CyInfo - Ancient Arms is an electronic encyclopedia devoted to the ancient arms. It consists of the four glossaries explaining terms of cold steel, armor, old artillery and firearms. Even if you are not keen on antiquity and chivalry, you can find here a lot of interesting details - all the words are explained in very simple language.
+Use <Up/Down arrows> to move through the categories of the encyclopedia.Press <Enter> to select.Press <Esc> to leave the encyclopedia.
+COPYRIGHT © 2001 CYBIKO, Inc.

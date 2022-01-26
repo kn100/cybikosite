@@ -1,0 +1,10 @@
+This is a board game for 2 players. The object of the game is to be the first player who scores 15 points. One player has white balls other player has gray balls to play with. The order of turns for the first round is determined at the beginning of the game. The player who moves the second is called "Hammer". In the next few rounds the "Hammer" is determined according to the results of the round: The player who didn't get points is a "Hammer". If both players didn't get points the "Hammer" is the player that wasn't "Hammer" in previous round.
+The playing field is a delineated board with an opened right boarder. If you shoot the ball with big strength it can go clean off the board. You can also hit your opponent's ball so that it goes out of the board.
+Each player has four balls for one game round. The players by turns choose the direction and strength of the shot.  When all balls are used, the round ends and next begins. The points are counted only for player with closest to the end line ball. If the main balls of both players are the same distance from the line, the round ends in a draw.
+It's your turn if the catapult drives to your info-box.
+Use <Up/Down arrows> to select the position of the hit (see aiming meter).
+Use <Left/Right arrows> to select the strength of the hit (see power meter).
+Press <Enter> to shoot.
+Press <Esc> to exit.
+Version 1.1.101
+COPYRIGHT © 2000 CYBIKO, Inc.

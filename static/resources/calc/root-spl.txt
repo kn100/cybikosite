@@ -1,0 +1,2 @@
+Performs standard arithmetical functions.
+© CYBIKO Inc., 1999

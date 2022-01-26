@@ -1,0 +1,6 @@
+This application allows you to view pictures of photo quality. Photos have the extension "xpic" and the icon with a camera; ordinary Cybiko 4-color pictures have the extension "pic" and the icon with a picture.
+You can create your own photo pictures using the Cyberload program.  For full instructions, see our site www.cybiko.com.
+Use <Up/Down arrows> in select-list to select a picture, and press <Enter> to open it. In the view screen, press <Esc> to go to the select-list.
+Press <?> in select-list to read "Help," which describes the actions you can take. Press <Esc> in select-list to exit application.
+Version 1.1.3
+COPYRIGHT © 2000 CYBIKO, Inc.

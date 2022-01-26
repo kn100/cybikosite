@@ -1,0 +1,12 @@
+Version 1.1.8
+My Journal is a diary application targeted at those who have some secrets to keep. 
+It is password protected for privacy. This application allows you to view the previous entries, and add the new ones - like in the real diary.
+View - to view previous entries;
+Add - to add a new record to the journal;
+Exit - to exit the application.
+Type in the password when asked and press <Enter>.
+To change your password, you have to press <Fn><P> when the password box is open and enter old and new passwords. Any alphanumeric password is allowed, up to 16 characters.
+Use <Up/Down Arrows> to select an option. A bullet to the left of it highlights the currently selected option.
+Press <Enter> to execute the selected option.
+Press <Esc> to exit the application.
+COPYRIGHT © 2001 CYBIKO, Inc.

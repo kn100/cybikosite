@@ -1,0 +1,12 @@
+Bolotudu is played between two opponents, White and Black, on a 5x6 board.
+Each player has 12 pieces. In the first stage, the players take turns placing all the pieces two at a time. Do not place three pieces of the same color in a vertical or horizontal line. If you cannot find a vacant square to place a piece, you lose the game.
+In the second stage, move your pieces along the vertical or horizontal lines. If you line up three pieces in adjacent squares, you must capture the opponent's piece (pieces available for capture will be blinking). If you are blocked from moving a piece, you lose. The player who has only two pieces left loses the game.
+The game ends when somebody loses. The game can also end if one of the players exceeds the game time.
+For full detailed rules, visit our Web site: www.cybiko.com
+Use <Arrows> to move the pointer.
+In the first stage, press <Enter> to place your counter.
+In the second stage, press <Enter> to pick up and to move your counter or to capture the opponent's counter.
+If you want to see your rating and that of your opponent, press <R>. Press <Enter> to close rating box.
+Press <Esc> to exit the game.
+Version 2.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

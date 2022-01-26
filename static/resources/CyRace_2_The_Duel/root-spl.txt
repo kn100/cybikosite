@@ -1,0 +1,8 @@
+Version 2.2.39
+Challenge your buddy to a duel in this new Cybiko racing game. Achieve the fastest time on any of the tracks! The host player chooses the track on which you will race. Upon starting the race, be ready when you see "Ready..." Following this, there will be a countdown from 3 to 1, and as "Go!" flashes on the screen, you begin controlling your car.  At the end of the track, you'll see your results: the one who is the fastest is the winner.
+Press <Esc> and choose the "Quit" button to quit the race.
+Next you'll see the default settings for the actions, which you may change.
+Use <Left/Right arrows> to move your car left or right.
+Press  <Select> to accelerate.
+Press <Enter> to decelerate.
+COPYRIGHT © 2001 CYBIKO, Inc.

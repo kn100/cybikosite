@@ -1,0 +1,11 @@
+Learn Morse Code using this application. You can exchange Morse code and usual messages with your friend. To read full description of application and Morse code table, see our site www.cybiko.com.
+To switch between Morse code input field, characters input field and message log field use <Tab>.
+Use <Select> in Morse code input field to enter Morse message.
+Use alpha-numeric keys in characters input field to enter usual message.
+To select message in message log field use <Up/Down arrows>.
+Press <Ins> in input filed or in selected message to decode the message.
+Press <Enter> in input fields to sent the message.
+Press <Enter> or <Esc> if you want to close box with message sent to you.
+Press <Esc> to exit.
+Version 1.1.44
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,10 @@
+The game is played on an 8x8 square board. Each player has a colored disk to use, the object is to dominate the board with your color! Black always moves first. Players take turns one after another placing one disk on the board. A player's disk must be placed next to one of the partner's disks and create a capture. Capture - when any of one player's disks that are surrounded at both ends (in any direction) by another player's disks. Captured disks then are converted to another player's color. If a player cannot make a legal move then the partner takes successive turns until the other player can make a legal move. When it is no longer possible for either player to move, the game is over. Disks are counted and the player with the majority of his color disks on the board is the winner.
+In the game on two Cybikos each player has the game time - the time for a player's own moves. If you exceed this time you lose.
+For detailed rules see our site www.cybiko.com
+Use <Arrows> to select a square.
+Press <Enter> to place the disk.
+When a move to a selected position is impossible, the pointer changes to a cross.
+If you want to see your rating and that of your opponent, press <R>. Press <Enter> to close rating box.
+Press <Esc> to exit.
+Version 3.1.17
+COPYRIGHT © 2000 CYBIKO, Inc.

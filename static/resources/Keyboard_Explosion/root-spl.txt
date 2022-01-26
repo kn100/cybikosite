@@ -1,0 +1,5 @@
+Version 1.1.3
+This is a single player game. You are a typist. The different symbols appears falling down from the top of the screen and your goal is to achieve the highest score by trying to hit them. You can hit them by typing the symbols on your Cybiko computer. As soon as any symbol appears on the screen, it's highlighted on your keyboard image. Upon starting the game, you have 100 points and you are fully healthy. Each time you press a correct button on your keyboard, you hit the symbol and get 30 points. Each time you press an incorrect button, you lose 50 points. If you fail to hit any symbol and it reaches the bottom of the playing field, you lose some health. The longer you play, the more symbols appears on the screen and the faster they move. The game ends when you lose all your health or if your score reaches zero. Try to be the fastest typist in order to appear in the Top 10 list!
+To hit the symbol, press the same button on your keyboard (on the keyboard image, it will be highlighted as soon as it appears on the screen).
+Press <Esc> to exit to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

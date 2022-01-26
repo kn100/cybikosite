@@ -1,0 +1,10 @@
+This is a two-player strategic game played on a dotted board. The players, in turn, place their lines (a line connects two unconnected dots) on the board. When a box is created with four identical lines, it's marked with the color of owner of those lines. 
+The goal of the game is to make as many of your own boxes as possible by the end of the game.
+The player who creates the most boxes is the winner. The game can end in draw if the players have an equal numbers of boxes or there are no more boxes on the board at the end of the game.
+The game ends in one of two ways: there is no place for a line (the board is full), or there is no possibility for any player to compound a box.
+Use <Arrows> to select a position for your line.
+Press <Select> or <Tab> to choose a line orientation (horizontal or vertical).
+Press <Enter> to place a line.
+Press <Esc> to exit or to propose a draw.
+Version 1.1.10
+COPYRIGHT © 2000 CYBIKO, Inc.

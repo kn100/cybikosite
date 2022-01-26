@@ -1,0 +1,6 @@
+This is a two-player word game. Each player offers a word with a clue for the partner. The object of the game is to guess a word, letter-by-letter, while making the fewest wrong guesses possible. Each word is presented as a series of blank lines. Each line is a non-guessed letter in the word. You suggest a letter from the alphabet. If that letter is one of the characters in the word, then it is inserted into the word. Otherwise the picture of a hung man is begun or continued!   This man is hung if you guess incorrectly six times.
+The player who first guesses the word is a winner. The player who first hangs a man is a loser.
+Enter a word you want to offer to your partner and a clue for the word using alpha keys. Choose the "DONE" button to start the game.
+Use <Arrows> or press alpha key to set the pointer above a letter and press <Enter> or <Select>. If you've switched on "Hot Keys" then when you press an alpha key it will automatically selected.
+Version 1.1.3
+COPYRIGHT © 2000 CYBIKO, Inc.

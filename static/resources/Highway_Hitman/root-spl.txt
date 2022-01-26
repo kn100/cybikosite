@@ -1,0 +1,9 @@
+You control the car that has a large gun mounted on the roof. Your object is to destroy as many other vehicles as possible shooting at them and not get pushed off the road. Any time when you collide with an enemy vehicle, your car blows up as well as other vehicle, and you lose one life. Keep off the border of the road, otherwise your vehicle will explode! The game has 10 levels. Your score increases as enemies are destroyed. The player will get an extra life every 1,000 points. You are given 3 cars or "lives" at the start of the game. If your car wrecks, and you have no lives remaining, the game is over.
+Press <Up arrow> to move the vehicle up.
+Press <Down arrow> to move the vehicle down.
+Press <Left arrow> to slow down the vehicle.
+Press <Right arrow> to speed up the vehicle.
+Press <Enter> to shoot.
+Press <Esc> to exit the game.
+Version 1.1.24
+COPYRIGHT © 2000 CYBIKO, Inc.

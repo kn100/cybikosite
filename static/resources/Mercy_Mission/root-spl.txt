@@ -1,0 +1,13 @@
+This is a single player game. The object on each level is to destroy all the enemies and capture their flag on the turret. When you do this, you go to the next level. While moving to the enemy turret, your soldier has to destroy all of the enemy soldiers by hitting them. If enemy or the mortar hits you, or if you step on the fire, you lose a live. You have three lives in the game, but this number may increase up to 5 if you hit special bonuses. Hit the disks in the air and you'll see what bonus you get: "A" - ammunition, "S" - spray gun, "M" - machine-gun, "+" - a live. The game ends and you are a winner when you successfully passes all 6 levels. The game also ends if you lose all your lives. For full detailed rules, see our site www.cybiko.com. 
+Use <Left/Right arrows> to move the hero left or right. 
+Press <Up arrow> to aim the gun up, and fire straight up.
+Press <Down arrow> to crouch the hero into prone shooting position. 
+Press <Enter> to fire a bullet.
+Press <Select> to jump. Press <Select><Left/Right arrows> to jump left or right.               
+Press <Up><Left/Right arrows> to aim up the gun left or right at 30 degree angle.
+Press <Down><Left/Right arrows> to aim down the gun left or right at 20 degree angle.
+While jumping press <Down arrow> to shoot straight down while in the air.
+Press <Tab> to view the statistical level screen.
+Press <Esc> to go to the game menu.
+Version 1.5.7
+COPYRIGHT © 2000 CYBIKO, Inc.

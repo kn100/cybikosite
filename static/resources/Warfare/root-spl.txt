@@ -1,0 +1,13 @@
+This is a two-player strategic game. Your object is to forestall your enemy while obtaining his flag from his territory with help of your soldiers, all the while getting points for destroying the enemy. You control: soldiers, which may run and get the flag; guns and machine guns that shoot at the enemy; and tanks that crush the walls and trees. Choose from the three missions to define your field size and number of objects. Place all the objects on your field, including walls and your flag. The enemy can view everything on your field except for the objects that are behind the wall, in the shadow.
+You win the game if your soldiers prevent your enemy from obtaining his flag, while obtaining your flag and returning to the bottom of border on your field. If all soldiers of both sides are killed, then wins the player who gets the highest score.
+For full detailed rules, see our site, www.cybiko.com.
+Press <Fn><Arrows> to choose the object.
+Press <Tab> or hold <Shift> and press <Select> to move from one object to another.
+Press <1>, <2>, <3>, <4> to choose the next tank, soldier, gun, or machine gun, respectively.
+While holding <Shift>, press <Arrows> to find a place to which you can move the soldier or tank, or to view the field state.
+While holding <Shift>, press <Enter> to move the chosen object in the chosen direction.
+Use <Left/Right arrows>, then press <Enter> to aim and shoot with the machine gun.
+Use <Arrows>, then press <Enter>, to aim and shoot with the gun.
+Press <Esc> to exit the game.
+Version 1.1.67
+COPYRIGHT © 2000 CYBIKO, Inc.

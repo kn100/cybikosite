@@ -1,0 +1,8 @@
+Your goal is get the high score by hitting the ball on the board. You will be given different missions to fulfill, which is designated by arrows on the board. If you complete a mission, you will score bonus points. The game ends if you lose all your balls.
+Press <Enter> to fire the ball. The longer you hold <Enter>, the stronger the shot will be. The shot will be completed when you release <Enter>.
+Press <Left arrow> or <1> or <2> to control the left bat.
+Press <Right arrow> or <0> or <BkSp> to control the right bat.
+Press <Del> and <Ins> for horizontal and vertical tilt, respectively.
+Press <Esc> to exit.
+Version 1.1.5
+COPYRIGHT © 2000 CYBIKO, Inc.

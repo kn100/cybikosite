@@ -1,0 +1,9 @@
+Version 1.1.2
+This is a single player game. The object of the game is to guide the chicken through the busy roadways in attempt to get the chicken to the other side of the road and get the maximum number of points. You have to guide the loose chicken from the city to his farm through four areas: the city road, field, grain elevator and pasture. Each area consists of 3 levels, which include 1, 2 and 3 lane highways with traffic, respectively. On each level, you must guide the chicken across the road to get to the other side. Avoid cars and motorcycles on the busy city road, combines on the field, haystacks on the elevator, and cows, pigs and horses in the pasture. If the chicken gets run over by any of the objects, you lose a life and the level begins again.  Pick up chicken feed along the way to obtain points. Once you are able to guide the chicken to the other side of the road, the next level starts. Upon starting the game, you have four lives, and this number may increase to 8 if you pick up the special bonus "hearts". The game ends if you successfully pass the 12th level, or if you lose all your lives. For full detailed rules, see our site www.cybiko.com.
+Use <Arrows> to control the chicken.
+Press <Up arrow> <Left/Right arrows> to move the chicken forward to the left or right.
+Press <Down arrow> <Left/Right arrows> to move the chicken backward to the left or right.
+Press <Ins> to show/hide informational field.
+Press <Tab> to view the Top Ten list.
+Press <Esc> to exit or restart the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

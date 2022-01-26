@@ -1,0 +1,10 @@
+The board for Chinese Chess is comprised of the intersections of ten horizontal and nine vertical lines. Horizontal lines are numbered from 1 to 10, vertical lines are numbered from a to i. The pieces move on the intersections of the board. Each side has the following 16 pieces: two Rooks (R), two Knights (N), two Bishops (B), two Guards (G), two Cannons (C), five Pawns (P), one King (K). The object of the game is to checkmate or stalemate the opponent. Each player has a limited amount of time, and if this time is exceeded, the player loses.
+For full detailed rules visit our site www.cybiko.com
+Press <Arrows> to move the pointer.
+Press <Enter> to select a figure or to move it.
+Press <Select> to view allowed moves for a selected figure.
+Press <Space> to unselect a figure.
+If you want to see your rating and that of your opponent, press <R>. Press <Enter> to close the rating box.
+Press <Esc> to exit the game.
+Version 2.1.10
+COPYRIGHT © 2000 CYBIKO, Inc.

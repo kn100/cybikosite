@@ -1,0 +1,8 @@
+Version 1.1.7
+This game can be played with one to five players. Each player controls an athlete who has to finish the 100m hurdles. The object of the game is to complete the event for the fastest time. Each player gets 3 turns in the game, and for final placement of the players, the fastest run of the 3 turns is used for each player. During any given turn, your athlete must run on the racetrack in a straight line and jump over hurdles while avoiding colliding with them. If you knock them over, your speed will be decreased. The time it takes you to cover distance is measured and displayed. The next player is then given a turn, and this repeats until all of the players have had 3 turns. After each player has finished 3 turns, the best time from each player is compared, and the players are ranked from the fastest to the slowest time.
+To make the athlete run, you must continuously hit <Left arrow>, followed by <Right arrow>, in succession. The faster you can alternate between <Left arrow> and <Right arrow>, the faster the athlete will run.
+When you are close to a hurdle, it's time to jump over it.
+Press <Del> to jump over hurdle.
+Press <Esc> to exit.
+COPYRIGHT © 2001 CYBIKO, Inc.
+

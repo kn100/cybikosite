@@ -1,0 +1,10 @@
+You are a security guard in a big hotel. You have to protect the hotel from the different bandits which seek to rob the joint. Shoot the armed bandits or use the explosives to destroy them, but try not to kill the innocent bystanders. Some of the robbers are extremely smart and look like regular people. You must only shoot at them if you see a gun at their hands. Watch out! The robbers will fire at you, and you must do all you can to stay alive!
+Sometimes people will come through the hotel with money, bonuses, explosives or health for you. Take full advantage of this! Try to snag these bonuses! They can help you to save the hotel. The game has 5 levels, and there are three episodes in each level. You must to fight with the bandits on the escalators, on the front staircase, and finally at the three elevators. The next episode will begin if you can stay alive for a certain amount of time! At the beginning of each level, you are promoted to the next rank of hotel security guards. If you lose all your health or have no money to pay fines, the game ends.
+Press <Arrows> to control the crosshairs.
+Press <Enter> to shoot.
+Press <Tab> to detonate an explosive.
+Press <Select> to take the bonuses: money, explosives or health packs.
+Press <Del> to use health pack: the health will be added to your life.
+Press <Esc> to exit game.
+Version 1.1.14
+COPYRIGHT © 2000 CYBIKO, Inc.

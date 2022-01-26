@@ -1,0 +1,9 @@
+Version 1.1.5
+Guitar Buddy Pro is an application for experienced guitarists, with features such as a tuner, metronome, a chord finder allowing you a wider selection of chords, and a scale player with box.
+Use <Up/Down arrows> to choose an item and press <Enter> to run it.
+Select "Scale Finder" to view different scales with box.
+Select "Tuner" to tune your guitar.
+Select "Chord Finder" to find the chord and view its graphical presentation.
+Select "Metronome" to listen to the beats for any tempo you set.
+Select "Exit" or press <Esc> to exit application.
+COPYRIGHT © 2001 CYBIKO, Inc.

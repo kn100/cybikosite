@@ -1,0 +1,9 @@
+Version 1.2.12
+Pass the 10 levels of this battle game and grab the highest score by eliminating the enemy ground units with your tank's gun! Shoot at your enemies: tanks, jeeps and ground troops. If you hit them, you get points. At the start of each level, you are fully healthy. Each time when you collide with an enemy object or are shot, you lose some health. Pick up the bonuses: bullets - to increase your ammunition and medicine chest - to increase your health.
+At the end of each level, you will have to fight the Boss' vehicle. To destroy a Boss, you need to damage it much more than other enemy units. When you remove a Boss, you go to the next level. Upon advancing to the next level, you get bonus points that equal the number of saved health units. The game keeps getting harder until you complete the 10th level or when you exhaust all your health on any level.
+Use <Arrows> to move the tank.
+Press <Enter> to fire.
+Press <Up/Down><Left/Right> to fire diagonally.
+Press <Select> to switch between the 2 tank modes: when the gun turns with the tank body and shoots in the direction faced by the tank, or when the gun always faces the top of the screen and shoots towards the top of the screen.
+Press <Esc> to pause the game and go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

@@ -1,0 +1,11 @@
+Version 1.1.20
+This is a two player strategic game. Your object is to create a robot and fight your opponent's robot, trying to beat them on each of the 7 levels.
+On each level, you get to construct a new robot and fight your opponent's robot. Upon starting each level, players, in turn, choose 4 skills (technologies) from the list for their robots. All skills are grouped together in these categories: weapons, shields, computer, engines, armor and other (special characteristics). Then the player chooses the robots among the four and sets the skills that he has selected upon the robot's components: to the head(s), to the hands, to the torso(s), to the legs and to its armor. When somebody wins the fight, the players go to the next level. The winner of the previous level chooses skills for their robot first. The other player chooses after them from the list of remaining skills. The game ends when either player is victorious on the 7th level. This player is the winner. For full detailed rules, see our site www.cybiko.com.
+Press <Up arrow> to move.
+Use <Left/Right arrows> to rotate the robot counterclockwise or clockwise.
+Press <Enter> to shoot.
+Press <Tab> to choose the place where you wish to move, then press <Tab> to jump (if this characteristic has been chosen).  "X" shows that this place is impossible to jump to.
+Press <Select> to show/hide Info sheet.
+Press <Space> to finish your move.
+Press <Esc> and choose the "Quit" button to exit the game.
+COPYRIGHT © 2001 CYBIKO, Inc.

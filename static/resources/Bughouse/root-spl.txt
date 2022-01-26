@@ -1,0 +1,3 @@
+Bughouse, or "Siamese chess," is a variant of chess played between two-player teams on two separate boards.
+Version 1.1.30
+COPYRIGHT © 2001 CYBIKO, Inc.

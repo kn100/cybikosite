@@ -1,0 +1,3 @@
+Money Control allows you to store financial expenses data and view total expenses for certain periods of time.
+Version 1.1.1
+© CYBIKO Inc., 1999

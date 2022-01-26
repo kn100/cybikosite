@@ -1,0 +1,10 @@
+Version 1.2.6
+You'll fight your 7 opponents one after the other, starting with the least skilled. The goal is to defeat them all as quickly as possible and become a "Quickest Victory" record holder. Your MAGIC weapon is more powerful, but takes longer to recharge. A released shot has a limited range but will curve toward anyone in the arena. The TECHNO guns cause less damage but can be fired continuously. They shoot in straight lines and require more precise aiming. You can damage your opponent by ramming them from behind or from the sides. You can protect yourself with a techno/magic shield. The score and stamina bar on the RIGHT belongs to YOU, while the left belongs to your opponent. When the stamina bar runs out (turns all white), the rider falls off the chariot unconscious. A rider on the ground can be killed by being run over or shot. Depending on the character, the rider will eventually rise to his feet. He may defend himself by shooting magic until the chariot picks him up, continuing the fight. Dropping the spectator by running into the stands at a high speed and running over them will bring you a few extra points. You automatically win the contest by killing your opponent. If time runs out, the winner is the one with the most points. If you lose, you can choose a rematch against the same opponent.
+Use <Arrows> to STEER.
+Hold <Enter> to ACCELERATE.
+Hold <Select> to BRAKE.
+Press <Tab> to shoot TECHNO.
+Press <Ins> to shoot MAGIC.
+Press <Del> for SHIELD.
+Press <Space> for Game Menu.
+COPYRIGHT © 2001 CYBIKO,Inc.

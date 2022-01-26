@@ -1,0 +1,9 @@
+Water Puzzle.
+Test your logic and mathematical skills while pouring water into bottles.
+The objective is to bring the quantity of water in one of the bottles. Water is poured from and into bottles of different sizes.
+Press <Left/Right arrows> to indicate the bottle.
+Press <Enter> to mark and to pour the water into another bottle.
+Press <Space> if you think that your task is completed.
+Press <Esc> to exit.
+Version 2.2.5.
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,8 @@
+This is a version of billiards. You must shoot the cue ball so it hits the ball with the lowest number on the table. Don't sink the cue ball. To win, sink the 9 ball. For detailed rules, see our Web site: www.cybiko.com
+Use <Arrows> to move the hand with a cue ball and to set the cue hit direction.
+Press <Select> to place the cue ball.
+Hold <Enter> for a length of time and then release. The longer you hold down <Enter>, the stronger the hit will be.
+Press <Tab> to switch on/off status info screen.
+Press <Esc> to exit the game.
+Version 1.2.8
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,10 @@
+This is the single player game. The object of the game is to guide a skier through a slalom course, avoiding trees and passing in between the flags that define the course, all in an attempt to attain the fastest run through the course.
+While skiing down the course, try to pass through all the gates and avoid all trees along the way. Maintain a high speed in the run in order to show a better time, but remember that a high speed results in the loss in maneuverability. A 10-second penalty will be added to your time for each missed gate. If you collide with a tree, you significantly lose your speed, and a 20-second penalty is added to your time.
+The game ends when you reach the finish line. Finish with a good time and you may be included in the Top Ten.
+Press <Left/Right arrows> to steer the skier left or right.
+Press <Select> to accelerate.
+Press <Enter> to decelerate.
+Press <Tab> to view the Top Ten list.
+Press <Esc> to exit or restart the game.
+Version 1.1.9
+COPYRIGHT © 2000 CYBIKO, Inc.

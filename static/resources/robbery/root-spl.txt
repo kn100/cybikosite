@@ -1,0 +1,8 @@
+You are a security guard of the bank. You have to protect the bank from hijackers, which appear from the elevators. Shoot the armed bandits or use the explosive to destroy them. But don't kill innocents. Some hijackers look like innocents, but don't be fooled! You'll have to take them out when they show their true colors! You can get money or bonuses (if you have money to buy them) that some visitors deliver. The game has 5 levels. The next level begins if you hold out for a certain amount of time and not get yourself killed! The game ends if you were killed or have no money.
+Press <Arrows> to control the aim.
+Press <Enter> to shoot.
+Press <Tab> to blow an explosive.
+Press <Del> to take bonuses: money, explosive or health kit.
+Press <Esc> to exit game.
+Version 1.1.15
+COPYRIGHT © 2000 CYBIKO, Inc.

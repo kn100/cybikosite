@@ -1,0 +1,7 @@
+This is a single player duck hunting game. The object of the game is to advance as many levels as possible by shooting all the ducks. There are ten levels in the game. You must attempt to get the duck in your sights, then fire.  If you are successful, the duck falls off the screen, and you can aim at another duck. There is limited number of bullets in each level. When you shoot, you lose a bullet, but if you hit the duck you get points, and the moment it reaches the bottom of the screen, you get a bullet. There are eagles that fly in and catch living and dead ducks.  If an eagle catches the dead duck the number of bullets doesn't increase. Hit the eagle and you also get points for it. There is a counter on the screen under the picture "duck head". This is the admissible number of ducks that you may fail to hit on each level. The game ends if the counter reads zero and you fail to hit a duck, or when you have no more bullets to shoot. When either happens, if your score is in the Top Ten you are asked to enter your name to the Top Ten list.
+For full detailed rules see our site www.cybiko.com.
+Use <Arrows> to move the sight.
+Press <Enter> to shoot with the gun.
+Press <Esc> to exit the game.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

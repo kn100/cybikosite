@@ -1,0 +1,12 @@
+This is a single-player action game. The game consists of 5 levels. You control a speedboat, and your ultimate goal is to pass all the levels by running away from the mafia speedboats that shoot at you, and also to score the most points. To succeed, you have to avoid various obstacles that will hinder you and take your health away, and also get bonuses. Use your weapons: a gun and grenades, to destroy them. The possible obstacles are logs, mines, and whirlpools. While sailing, you can run over a springboard, and you will be flung into the air and will fly for a while. Bonuses may either be a piece of "health" for your speedboat, some fuel for it, or ammunition for your fight: a set of shells, or "ammo", which consists of shells and grenades. If you destroy an enemy cutter, you are given a special bonus. If you pick it up, you will shoot three shells at a time. You'll have this ability for 10 seconds. You are given 3 lives to pass each level. Every time you lose all of your health, or all the fuel, you lose one life. If you run into a riverbank, you lose 25 points of your health. The more obstacles you destroy, the more points you will score. Don't shoot at the natives who sail on this river. You lose the game if you lose all 3 lives. If you pass all the levels and your score is in the Top Ten, you are asked to enter your name. For full detailed rules, see our site www.cybiko.com <http://www.cybiko.com/>.
+Press <Arrows> to move your speedboat up/down/right/left.
+Press <Enter> to shoot the gun.
+Press <Select> to fire a grenade.
+Press <Ins> to hide the informational field.
+Press <Ins> once more to restore it.
+Press <Esc> to exit the game.
+Press <Tab> to view the Top Ten list. 
+To pick up a bonus, you only need to drive onto it.
+To jump from the springboard, you also have to drive onto it.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

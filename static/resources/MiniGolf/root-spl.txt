@@ -1,0 +1,7 @@
+This is a two-player game with five holes of golf competition for you to enjoy!  Each player takes his/her turn.  You can adjust the power and the direction of your shot; if you hole the ball you'll have to wait until your partner gets his/her in!  Then you'll both move onto the next course.  The game keeps going until both of you have finished all five courses!  And as with all golf, the one with the fewest strokes wins!
+Use <Left/Right arrows> to select the direction of a stroke.
+Use <Up/Down arrows> to select the strength of a stroke or use numeric keys from <1> to <9>.
+Press <Enter> to stroke.
+Press <Esc> to exit.
+Version 1.1.47
+COPYRIGHT © 2000 CYBIKO, Inc.

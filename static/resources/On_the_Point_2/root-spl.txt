@@ -1,0 +1,9 @@
+Version 1.2.34
+Get the highest score and win the title of champion while completing each of 5 levels of this boat race in a limited amount of time! You control the boat in which you'll be racing on a lake full of different objects. To avoid the losing your health, shoot the objects and get the points that come with that. These objects are: the yacht, the oncoming enemy boat, the log and the mine. Don't hit the objects on the ground, avoid incoming fire and decide if you want to fly from the ramp. Pick up the following bonuses: medicine chest to increase your health, barrel of fuel to increase your fuel resources, the bullets, the "heart" to get one more life (upon starting the game, you have 3 lives and may increase them to 5), and the "skull" to get the super missile. You also lose some health if you drive your boat onto the shore.  If you fly out on the shore, you lose a life. Upon starting the game, there will be countdown from 3 to 1 and after the word "GO!!!" flashes on the screen you may begin to control your boat. When you finish before the time expires, you get 10 points for every second that you have saved. If you fail to complete the race in limited time, you lose a life. Either way, you go to the next level. The game ends if you successfully complete the fifth level or when you use up all your lives.
+Use <Left/Right arrows> to move left or right.
+Hold <Up arrow> to accelerate. The longer you hold the <Up arrow>, the faster you move. Reset the button to decelerate.
+Press <Enter> or <Space> to shoot.
+Press <Tab> to view the best players in each heat.
+Press <Ins> to show/hide the info panel.
+Press <Esc> to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.

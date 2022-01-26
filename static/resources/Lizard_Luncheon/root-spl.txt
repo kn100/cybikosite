@@ -1,0 +1,7 @@
+This is a single player game. The object of the game is to eat all the flies in each level in order to pass to the next level and to prevent the lizard from starving to death. You control the crosshairs by moving them around the screen. You also control the lizard's tongue, and you must fling it out to the crosshairs and bring it back into its mouth. Any flies in the path of the tongue will get pulled into the lizard's mouth and will be eaten.  You have a limited time to eat all flies on the level. Your score and the time remaining to finish the level are shown in the bottom of the screen.
+The game ends when you fail to eat all of the flies in the level in limited time. When this happens, if you your score is in the Top Five, you will be asked to enter your name to the Top Five list.
+Use <Arrows> to move the crosshairs.
+Press <Enter> to move the tongue to the crosshairs.
+Press <Esc> to exit to the game menu.
+Version 1.1.10
+COPYRIGHT © 2000 CYBIKO, Inc.

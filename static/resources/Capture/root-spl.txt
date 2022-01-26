@@ -1,0 +1,7 @@
+This is a single player game. The goal is to score the most points and to pass as many levels as you can. You control a ship that can fly only by white lines on the field. If your track forms a box, the figure inside the square is trapped and captured. These lines will become white. If two figures are created, the figure with smallest area is considered as filled. The playing field has outlined borders, which are defined as your lines. If an enemy ship is in a captured area, this ship is destroyed.
+You will continue to the next level if you capture more than 80% of the screen. With each new level, the number of enemy ships increases by one. At the beginning of the game, your ship has 3 lives. You lose one life of your ship and non-closed line is erased if: the enemy ship crosses your non-closed line, or you cross your non-closed line (for example, you can't fly back over your own non-closed line.) You score depends on: what lines you've created - polygonal lines add more points than a straight line; what area you've captured - a bigger area adds more points than a smaller area; how many enemy ships you've destroyed.
+If you lose all lives, the game ends. If your score is in the top ten, it'll be noted in the table of the high scores.
+Use <Arrows> to control your ship.
+Press <Esc> to exit or restart the game.
+Version 1.1.41
+COPYRIGHT © 2000 CYBIKO, Inc.

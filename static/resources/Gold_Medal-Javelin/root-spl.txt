@@ -1,0 +1,9 @@
+This game can be played with one to five players. Each player controls an athlete who has to throw a javelin. The object of the game is to make the longest throw. Each player gets 3 turns. The player gets 60 seconds to make his turn until time is up.
+In each turn your athlete must charge down the track, throwing a javelin at the precise moment so as to achieve perfect result!  But don't step over the foul line!  When the javelin lands, the distance is measured and displayed on the screen. The next player follows the same idea, then the next, until all players have had 3 turns. After each player has finished 3 turns, the best throw from each player is compared, and the players are ranked from longest throw, to shortest throw.
+To make the athlete run, you must continuously hit <Left arrow>, followed by <Right arrow>, in succession. The faster you can alternate between <Left arrow> and <Right arrow>, the faster the athlete will run.
+To throw hold <Enter> to select the angle of a throw and then release <Enter>. The longer you hold <Enter> the greater the angle will be from starting angle of 15 to a maximum of 75 degrees.
+Press <Tab> to show/hide players list.
+Press <Fn><R> to see top 5 records.
+Press <Esc> to exit.
+Version 2.4.36
+COPYRIGHT © 2000 CYBIKO, Inc.

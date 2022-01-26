@@ -1,0 +1,10 @@
+Show your patience and logic in laying out four cards' roads!
+The objective is to order the cards so that within each row all cards have the same suit and are in the ascending order. You should use free cells in each row. A card can be played on a free cell if there is a card of the same suit and next in rank to the left of that cell. You cannot play a card on the cell to the right of a King.
+If neither card can be played on either free cell, you should shuffle all yet unordered cards (one time in the game), and the cards will occupy positions to the right of the free cells in each row, which in turn go right after the last-ordered card in that row.
+Press <Arrows> to move the focus through the cards.
+Press <Enter>, <Select> or <Ins> to pick up the necessary card.
+Press <Enter> to place the card.
+Press <Tab> to shuffle and deal the cards.
+Press <Esc> to end the game.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

@@ -1,0 +1,7 @@
+This application helps you record and view your workout achievements.
+Use <Up/Down arrows> to select the menu item. Press <Enter> to open it. 
+New Workout - to add a new workout.
+View Records - to view existing records.
+Exit - to exit the application.
+Version 1.1.18
+COPYRIGHT © 2000 CYBIKO, Inc.

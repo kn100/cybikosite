@@ -1,0 +1,6 @@
+This is  the single player game. The object of the game is to outplay the Cybiko Cy-B and get the highest score. There are three levels in the game. You play with one ball on the first level, two balls on the second, and three balls on the third. When the game starts, your Cy-B will either be marked with a triangle or will inform you about himself. The line divides the screen into two areas: yours and your opponent's. You must hit the ball(s) to each other. Try your best not to let the ball fall down and reach the bottom of the screen on your side. If this happens, your opponent gets one point. If the ball falls down on your opponent's area, you get a point. When any player scores the required number of points, he/she wins the level. When any of the characters win the level, you all go to the next level. The game ends when somebody wins the third level. You win the game if your final score is higher.
+Use <Left/Right arrows> to move the player left or right.
+Press <Enter> to jump.
+Press <Esc> to exit to the game menu.
+Version 1.1.6
+COPYRIGHT © 2000 CYBIKO, Inc.

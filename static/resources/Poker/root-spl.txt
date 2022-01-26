@@ -1,0 +1,3 @@
+The goal is to break the bank in this popular card game for two players. A win depends not only on the player's cards, but also on how the player makes the bets, bluffing and exerting psychological pressure on the partner.
+Version 1.1.1
+COPYRIGHT © 2000 CYBIKO, Inc.

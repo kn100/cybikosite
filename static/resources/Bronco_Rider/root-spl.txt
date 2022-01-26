@@ -1,0 +1,6 @@
+Version 1.1.26
+This is a single player game. The object of the game is to try to stay on a mechanical bull for the longest period of time without being throwing off. When a cowboy gets on the bull back an encouraging message flashes on the screen and you may begin to control your hero. The bull will begin moving slowly to start out, and will speed up continuously, tilting back and forth so the back of the seat goes up and down.  Meanwhile, the front of the seat will raise up and down, while moving forward and backward also. You must lean the cowboy in the opposite direction that the bull is moving to keep the hero on the bull. If you miss a tilt, the cowboy will be thrown from the bull. When the cowboy is thrown from the bull, the game is over. If your time is in the Top 10, then an input box appears asking you to enter your name.
+For full detailed rules, see our site www.cybiko.com.
+Press <Left/Right arrows> to lean the cowboy left or right.
+Press <Esc> and choose the quit button to go to the game menu.
+COPYRIGHT © 2001 CYBIKO, Inc.
